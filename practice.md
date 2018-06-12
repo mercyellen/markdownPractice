@@ -1,1 +1,1 @@
-[a link](https://github.com/mercyellen/markdownPractice/blob/master/README.md)
+[README](https://github.com/mercyellen/markdownPractice/blob/master/README.md)
