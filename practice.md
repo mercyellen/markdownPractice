@@ -1,8 +1,6 @@
 #### This link isn't as important for whatever reason so I'm just putting an H4 header here
 [README link](https://github.com/mercyellen/markdownPractice/blob/master/README.md)
 
-![Vacation I'm not going on](https://media.coindesk.com/uploads/2017/11/aruba-caribbean--e1511749619496.jpg)
-
 [Google Homepage](https://www.google.com)
 
 Here's some ~~strikedthrough text for ya~~
@@ -33,4 +31,7 @@ This | self
 System.out.println("Hello World");
 ```
 
-![Hometown](/files/carthage.jpg)
+![Hometown](carthage.jpg)
+
+![Vacation I'm not going on](https://media.coindesk.com/uploads/2017/11/aruba-caribbean--e1511749619496.jpg)
+
