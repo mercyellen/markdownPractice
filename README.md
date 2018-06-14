@@ -8,3 +8,5 @@ Practicing with markdown
 ---
 
 *So let's try this whole italicizing thing*
+
+**Or we could go bold**
