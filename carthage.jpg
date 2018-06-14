@@ -1,0 +1,1481 @@
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+
+
+<HTML>
+<HEAD>
+<title>Carthage, Missouri City Information - ePodunk</title>
+<meta name="description" content="Get all the local information you need on Carthage, Missouri, MO - community history, demographics, local search and more at ePodunk">
+<meta name="keywords" content="Carthage, Missouri, MO ">
+
+
+ <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<meta name='ICBM' content='37.176N,-94.31W'><meta name='DC.title' content='ePodunk'><meta name='geo.position' content='37.176N,-94.31W'><meta name='geo.placename' content='Carthage, MO'><meta name='geo.region' content='US-MO'><script type="text/javascript">
+if(!ord)
+	var ord = Math.random()*10000000000000000;
+</script>
+<SCRIPT LANGUAGE="JavaScript1.2" src="/Common/Utils.js"></SCRIPT>
+<script language="javascript">
+<!-- //prevent anyone 'framing' this frameset
+if (top.frames.length!=0){top.location=self.document.location;}//-->
+</script>
+<script language="javascript" type="text/javascript" src="/MyeP/ajax.js"></script>
+<script language="javascript" type="text/javascript" src="/MyeP/star_scripts.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="/MyeP/Utils_MyeP.js"></script>
+<link rel="stylesheet" href="/css/epGenInfo4IB3.css" type="text/css" media="all" />
+<link rel="search" href="/os/osd.xml" type="application/opensearchdescription+xml" title="ePodunk Search" />
+        <script type='text/javascript'>
+            var city = 'Carthage';
+            var state ='MO';
+        </script>
+<!-- ep_community -->
+          <!-- Start: GPT Async -->
+    <script type='text/javascript'>
+          //console.log('Running ep_community gpt script ...');
+                 var gptadslots=[];
+                 var googletag = googletag || {};
+                 googletag.cmd = googletag.cmd || [];
+                 (function(){ var gads = document.createElement('script');
+                 gads.async = true; gads.type = 'text/javascript';
+                 var useSSL = 'https:' == document.location.protocol;
+                 gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+                 var node = document.getElementsByTagName('script')[0];
+                 node.parentNode.insertBefore(gads, node);
+                 })();
+    </script>
+
+    <script type=text/javascript>
+                 googletag.cmd.push(function() {
+
+                 //Adslot 1 declaration
+                 gptadslots[1]= googletag.defineSlot('/2922/ep_community/728x90_top', [[728,90]],'div-gpt-ad-451131611146997429-1').setTargeting('kw',['top']).setTargeting('state',state).setTargeting('city',city).addService(googletag.pubads());
+
+                 //Adslot 2 declaration
+                 gptadslots[2]= googletag.defineSlot('/2922/ep_community/300x250_center', [[300,250]],'div-gpt-ad-451131611146997429-2').setTargeting('kw',['center']).setTargeting('state',state).setTargeting('city',city).addService(googletag.pubads());
+
+                 //Adslot 3 declaration
+                 gptadslots[3]= googletag.defineSlot('/2922/ep_community/336x280_center', [[336,280]],'div-gpt-ad-451131611146997429-3').setTargeting('kw',['center']).setTargeting('state',state).setTargeting('city',city).addService(googletag.pubads());
+
+                 //Adslot 4 declaration
+                 gptadslots[4]= googletag.defineSlot('/2922/ep_community/336x280_bottom', [[336,280]],'div-gpt-ad-451131611146997429-4').setTargeting('kw',['bottom']).setTargeting('state',state).setTargeting('city',city).addService(googletag.pubads());
+
+                 //Adslot 5 declaration
+                 gptadslots[5]= googletag.defineSlot('/2922/ep_community/2x2', [[2,2]],'div-gpt-ad-451131611146997429-5').setTargeting('kw',['post']).addService(googletag.pubads())
+
+                 //Adslot oop declaration
+                 gptadslots[0] = googletag.defineOutOfPageSlot('/2922/ep_community/OOP', 'div-gpt-ad-451131611146997429-oop').setTargeting('kw',['wallpaper']).addService(googletag.pubads());
+
+                 googletag.pubads().enableSingleRequest();
+                 googletag.pubads().enableAsyncRendering();
+                 googletag.enableServices();
+                 });
+    </script>
+    <!-- End: GPT -->
+       <script type="text/javascript" src="/cgi-bin/gpt/DisplayGPTAds.js"></script>
+
+</head>
+<BODY>
+
+
+<div id='frame'>
+	<div align=center class='LeaderBoard2'>
+		
+	<script language="javascript" type="text/javascript">
+		if (typeof epod_hints == 'undefined') {
+			var epod_hints = "Carthage, missouri";
+		}
+	</script>
+	<!-- begin ad tag (tile=1) -->
+ <div id="gptAdSlot1"></div><!-- End ad tag -->
+		<div class='DottedLine' style='padding-top:3px;margin-bottom:0px;'></div>
+	</div>
+	<div id='contentheader2'>
+		<div id='date2'>
+			<script language="JavaScript" type="text/javascript">
+          <!-- Begin
+          // Get today's date
+          var now = new Date();
+
+          // Array list of days
+          var days = new Array('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday');
+
+          // Array list of months
+          var months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
+
+          // Calculate number of current day in the week
+          var date = ((now.getDate()<10) ? "" : "")+now.getDate();
+
+          // Calculate year
+          function fourdigits(number) {
+            return (number < 1000) ? number + 1900 : number;
+                          }
+          // Join together
+          today =  days[now.getDay()] + ", " +
+                        months[now.getMonth()] + " " +
+                         date + ", " +
+                          (fourdigits(now.getYear())) ;
+
+          // Print out dateline
+          document.write("" +today);
+          //  End -->
+      </script>
+		</div>
+		<div id='Logo3' style='margin-top:3px;margin-bottom:4px;'><a href='/'><img src='http://pix2.epodunk.com/home/postmark-wht-sm.gif' alt='ePodunk - The power of place' border=0 width=183 height=80></a></div>
+
+		<div align='center' class='TopSearchBox'>
+			<div class='SearchBlueBar2'>PLACE SEARCH</div>
+			<div class='Form'>
+				<FORM name='frmSearchBox' method='get' action='/cgi-bin/localSearch.php' onsubmit='this.searchStr.value = fixSearchStr( this.searchStr.value )' style='margin:0;padding:0;'>
+					<div align='center' class='SearchInput'>
+						<INPUT type='text' size='12' name='searchStr' style='width:180px; border:#039 1px solid;' value=' Enter a community name' onFocus="if(this.value==this.defaultValue){this.value='';}">
+						<INPUT type='hidden' name='parseMethod' value='phrase'>
+						&nbsp;&nbsp;&nbsp;State: 
+						<SELECT name='state' style='border:#039 1px solid;'><OPTION VALUE='[all]'>&lt;All&gt;</OPTION><OPTION VALUE='1'>Alabama</OPTION>
+<OPTION VALUE='2'>Alaska</OPTION>
+<OPTION VALUE='3'>Arizona</OPTION>
+<OPTION VALUE='4'>Arkansas</OPTION>
+<OPTION VALUE='5'>California</OPTION>
+<OPTION VALUE='6'>Colorado</OPTION>
+<OPTION VALUE='7'>Connecticut</OPTION>
+<OPTION VALUE='8'>Delaware</OPTION>
+<OPTION VALUE='9'>District of Columbia</OPTION>
+<OPTION VALUE='10'>Florida</OPTION>
+<OPTION VALUE='11'>Georgia</OPTION>
+<OPTION VALUE='12'>Hawaii</OPTION>
+<OPTION VALUE='13'>Idaho</OPTION>
+<OPTION VALUE='14'>Illinois</OPTION>
+<OPTION VALUE='15'>Indiana</OPTION>
+<OPTION VALUE='16'>Iowa</OPTION>
+<OPTION VALUE='17'>Kansas</OPTION>
+<OPTION VALUE='18'>Kentucky</OPTION>
+<OPTION VALUE='19'>Louisiana</OPTION>
+<OPTION VALUE='20'>Maine</OPTION>
+<OPTION VALUE='21'>Maryland</OPTION>
+<OPTION VALUE='22'>Massachusetts</OPTION>
+<OPTION VALUE='23'>Michigan</OPTION>
+<OPTION VALUE='24'>Minnesota</OPTION>
+<OPTION VALUE='25'>Mississippi</OPTION>
+<OPTION VALUE='26' selected>Missouri</OPTION>
+<OPTION VALUE='27'>Montana</OPTION>
+<OPTION VALUE='28'>Nebraska</OPTION>
+<OPTION VALUE='29'>Nevada</OPTION>
+<OPTION VALUE='30'>New Hampshire</OPTION>
+<OPTION VALUE='31'>New Jersey</OPTION>
+<OPTION VALUE='32'>New Mexico</OPTION>
+<OPTION VALUE='33'>New York</OPTION>
+<OPTION VALUE='34'>North Carolina</OPTION>
+<OPTION VALUE='35'>North Dakota</OPTION>
+<OPTION VALUE='36'>Ohio</OPTION>
+<OPTION VALUE='37'>Oklahoma</OPTION>
+<OPTION VALUE='38'>Oregon</OPTION>
+<OPTION VALUE='39'>Pennsylvania</OPTION>
+<OPTION VALUE='40'>Rhode Island</OPTION>
+<OPTION VALUE='41'>South Carolina</OPTION>
+<OPTION VALUE='42'>South Dakota</OPTION>
+<OPTION VALUE='43'>Tennessee</OPTION>
+<OPTION VALUE='44'>Texas</OPTION>
+<OPTION VALUE='45'>Utah</OPTION>
+<OPTION VALUE='46'>Vermont</OPTION>
+<OPTION VALUE='47'>Virginia</OPTION>
+<OPTION VALUE='48'>Washington</OPTION>
+<OPTION VALUE='49'>West Virginia</OPTION>
+<OPTION VALUE='50'>Wisconsin</OPTION>
+<OPTION VALUE='51'>Wyoming</OPTION>
+
+						</SELECT>
+						&nbsp;&nbsp;&nbsp;<INPUT type='submit' value='Search' name='submit'><br>
+					</div>
+					<input type='checkbox' name='fka' value='1'> Include former names &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Go To:</b>
+				</FORM>
+				<a href='/cgi-bin/advanced_search.html'>Advanced search</a> | <a href='/search/cemeteries.html'>Cemetery search</a>
+			</div>
+		</div>
+	</div>
+	<div style='visibility:hidden;'>
+</div><div id='BarContainer'><div id='TopBar'>CARTHAGE COMMUNITY PROFILE<a name='top'></a></div>
+
+
+
+<div id='TopBar2'>
+<div class='MyeP' align=right>
+
+<script language="javascript"><!--
+	function openMyeP(a_mode){
+		 
+		var ipCheck = "162.104.162.227";
+		
+		if (ipCheck == ""){
+			alert('ePodunk cannot see your IP address.\n\nFor security reasons, a visible IP address is required for logging into My ePodunk.');
+			return;
+		}
+		
+		//var srcURL = document.URL;
+		//if (srcURL.substr(srcURL.length - 1, 1) == '#'){
+		//	srcURL = srcURL.substr(0, srcURL.length - 1);
+		//}
+		
+		//var srcLBL = document.title;
+		//if(srcLBL.indexOf("-") > 0){
+		//	srcLBL = Trim(srcLBL.substr(0, srcLBL.indexOf("-")));
+		//}
+		
+		var srcInfo = buildMyePGET();
+		
+		window.location = "http://my.epodunk.com/cgi-bin/homeMyeP.php?homeMode="+a_mode+"&"+srcInfo;
+	}
+	function logout(){
+		window.location="http://my.epodunk.com/cgi-bin/homeMyeP.php?homeMode=Logout&"+buildMyePGET();
+	}
+	var date=new Date();
+//--></script>
+
+</div>
+
+<a href="/cgi-bin/genInfo.php?locIndex=26">Missouri</a> &gt; <a href="/counties/mo_county.html">All counties</a> &gt; <a href="/cgi-bin/genInfo.php?locIndex=20388">Jasper County</a> &gt; Carthage
+</div>
+</div>
+<div id="contentleft">
+
+<div align="center" class="TopLeftBlueBar">
+QUICK LINKS
+</div>
+<ul id="navlist">
+	<li><a href="#Esse">Essentials</a></li>
+	<li><a href="#Cens">Census</a></li>
+	<li><a href="#Web">Web sites</a></li>
+	<li><a href="#Ance">Ancestry</a></li>
+	<li><a href="#Attr">Attractions</a></li>
+	<li><a href="#Ceme">Cemeteries</a></li>
+	<li><a href='/colleges/mo_college.html'>Colleges</a></li>
+	<li><a href="#Comm">Communities</a></li>
+	<li><a href="#Comp">Companies</a></li>
+	<li><a href="#Cour">Courts &amp; laws</a></li>
+	<li><a href="#Crim">Crime</a></li>
+	<li><a href="#Deat">Deaths</a></li>
+	<li><a href="#Disa">Disability access</a></li>
+	<li><a href="#Econ">Economy</a></li>
+	<li><a href="#Educ">Education</a></li>
+	<li><a href="#Ente">Entertainment</a></li>
+	<li><a href="#Envi">Environment</a></li>
+	<li><a href="#Fair">Festivals</a></li>
+	<li><a href="#Geoc">Geocaching</a></li>
+	<li><a href="#Gift">Gifts</a></li>
+	<li><a href="#Gove">Government</a></li>
+	<li><a href="#Guid">Guides</a></li>
+	<li><a href="#Heal">Health</a></li>
+	<li><a href="#Hist">Historical societies</a></li>
+	<li><a href="#Hist2">History</a></li>
+	<li><a href="#Real">Housing</a></li>
+	<li><a href="#Jobs">Jobs</a></li>
+	<li><a href="#Libr">Libraries</a></li>
+	<li><a href="#map-links">Maps</a></li>
+	<li><a href="#Medi">Media</a></li>
+	<li><a href="#Mili">Military</a></li>
+	<li><a href="#Obit">Obituaries</a></li>
+	<li><a href="#Orga">Organizations</a></li>
+	<li><a href="#Park">Parks</a></li>
+	<li><a href="#Pets">Pets</a></li>
+	<li><a href="#Phot">Photos</a></li>
+	<li><a href="#Post">Post Cards</a></li>
+	<li><a href="#Poli">Politics</a></li>
+	<li><a href="#Post2">Postal Service</a></li>
+	<li><a href="#Reli">Religion</a></li>
+	<li><a href="#Rest">Restaurants</a></li>
+	<li><a href="#Traf">Traffic</a></li>
+	<li><a href="#Trav">Travel</a></li>
+	<li><a href="#Weat">Weather</a></li>
+	<li><a href="#Wild">Wildlife</a></li>
+</ul>
+<br clear="all" />
+<!-- This is the end of the first column -->
+</div>
+ 
+ 
+<div id='contentcenter'>
+
+<h1 style='font-size:22px;margin-top:10px;margin-bottom:10px;'>Profile for Carthage, Missouri, MO</h1>
+<!--Postcards & photos associated with this community -->
+<div id='CenterPieceImage'><A HREF='createCardNum.php?locId=20169&imgId=mo_carthage02.jpg'><IMG SRC='http://pix.epodunk.com/MO/mo_carthage02.jpg' WIDTH='400' HEIGHT='254' HSPACE='0' VSPACE='2' BORDER='0' ALT="Carthage postcard post card - Courthouse, Carthage, MO"></A></div>
+<div class='ImageCaption'>Courthouse, Carthage, MO</div>
+<div class='MedLink'><A HREF='createCardNum.php?locId=20169&imgId=mo_carthage02.jpg'>Email this post card</A></div>
+<div class='MedLink'><A HREF='allImgs.php?locId=20169&imgType=postCard&sec=0'>More Carthage post cards</A></div>
+
+
+				<p><strong>Send us your Carthage photos:</strong>
+			   <div class="Form">
+					<form name="ImageUpload" action="http://my.epodunk.com/cgi-bin/homeMyeP.php?homeMode=UploadPic" method="post" enctype="multipart/form-data" onSubmit="return submitToMyeP(this);" style="margin:0;">
+						<input type="hidden" id="sourceURL" name="sourceURL" value="" />
+						<input type="hidden" id="sourceLBL" name="sourceLBL" value="" />
+						<input type="hidden" id="destDB"    name="destDB"    value="us_dbo" />
+						<input type="hidden" id="curID"     name="curID"     value="20169" />
+						<input type="hidden" id="MRAbbrev"  name="MRAbbrev"  value="MO" />
+						<input type="hidden" id="homeMode"  name="homeMode"  value="UploadPic" />
+						<input type="hidden" name="MAX_FILE_SIZE" value="3145728" />
+
+						<div class="SubmitPhotos">
+							<input type="file"   id="pic" name="pic"  style="height: 22px" />
+							<input type="submit" id="Send" name="Send" value="Send" style="height:22px" />
+						</div>
+					</form>
+				</div>
+<P>
+
+<div><strong><a href="#" onclick="submitToMyeP(document.submitTextblog); return false;">Tell us the pros & cons of Carthage</a></strong></div>
+<div><strong><a href="#" onclick="submitToMyeP(document.submitTextblog); return false;">Blog about Carthage</a></strong></div><div class=DottedLine></div>
+<div id='PlaceMapSound'>
+Carthage
+<script language='JavaScript' type="text/javascript">
+function audioWin() {
+  myWin= open('/cgi-bin/detector.php?locIndex=20169','displayWindow','width=300,height=300,status=no,toolbar=no,resizable=yes,scrollbars=no,menubar=no');
+}
+</script>
+
+<a href='#local-map'><img src='/graphics/MapIcon.jpg' width='17' height='17' alt='map' border='0'></a>
+</div>
+
+<div class='InLineFloatRight190'>
+<h3>Sponsored Ads</h3>
+<div class='Padding5'>
+
+<script type="text/javascript">
+<!--
+
+	if (!window.google_ad_request_done) {
+		window.google_ad_request_done = function(ads) {}
+	}
+
+	//ACTIVE_AD.unit.isRadLinks
+	var ACTIVE_AD = {};
+	ACTIVE_AD.unit = {};
+	ACTIVE_AD.unit.isRadLinks = true;
+
+
+	function google_radlink_request_done(radlinks) {
+		/*
+		* This function is required and is used to display
+		* the ads that are returned from the JavaScript
+		* request. You should modify the document.write
+		* commands so that the HTML they write out fits
+		* with your desired Link Unit layout.
+		*/
+		if (radlinks.length < 1)
+			return;
+
+		var output = "";
+		var rad_terms = "";
+		var rad_rts = "";
+
+		for(i=0; i < radlinks.length; ++i) {
+			if (rad_terms.length > 0) {
+				rad_terms += "|" + radlinks[i].term;
+			} else {
+				rad_terms += radlinks[i].term;
+			}
+
+			if (rad_rts.length > 0) {
+				rad_rts += "|" + radlinks[i].radlink_token;
+			} else {
+				rad_rts += radlinks[i].radlink_token;
+			}
+		}
+
+		for(i=0; i < radlinks.length; ++i) {
+			output += "<li>";
+			output += "<a target=\"_top\" href=\"/cgi-bin/radlinks.php";
+			output += "?channel=EPO_Domain_RAD";
+			output += "&term=" + escape(radlinks[i].term);
+			output += "&google_kw=" + radlinks[i].url_escaped_term;
+			output += "&google_rt=" + radlinks[i].radlink_token;
+			output += "&google_page_url=" + encodeURIComponent(window.location);
+			output += "&rad_terms=" + escape(rad_terms);
+			output += "&rad_rts=" + escape(rad_rts);
+			output += "\" rel=\"nofollow\"><b>" + radlinks[i].term + "</b></a>";
+			output += "</li>\n";
+		}
+		document.write("<ul>" + output + "</ul>\n");
+	}
+
+	google_ad_client = "ca-ib-radlinks";
+	google_ad_channel = "EPO_Domain_RAD";
+	google_ad_output = "js";
+	google_max_num_ads = "0";
+	google_page_url = window.location;
+	google_language = "en";
+	google_encoding = "utf-8";
+	google_contents = "";
+	google_safe = "high";
+	google_adtest = "off";
+	google_num_radlinks = "6";
+	google_max_radlink_len = "35";
+	google_num_radlinks_per_unit = "3,4,5";
+	google_rl_mode = "relevance";
+	google_hints = "ca-ib-radlinks";
+	ad_headline_font = "4_ads:Arial,3_ads:Arial";
+	ad_dimensions = "160x90RL";
+	ad_border = "FFFFFF";
+	ad_title = "330099";
+	ad_bg = "FFFFFF";
+	ad_text = "000000";
+	ad_url = "008800";
+-->
+</script>
+<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div></div>
+<p>Carthage is a city  in Jasper County, in the Joplin metro area. </p><p>It is the county seat. </p><p>The community  was named after a city in North Africa.<BR><p>The latitude of Carthage is 37.176N. The longitude is -94.31W.</p> It is in the Central Standard time zone. Elevation is 1,004 feet.<p><p>The estimated population, in 2003, was 12,892.</p><br clear=all>
+<script language="javascript" type="text/javascript">
+	if (typeof epod_hints == 'undefined') {
+		var epod_hints = "Carthage, missouri";
+	}
+</script>
+<div class="MedTypeLineAbove">
+<!-- begin ad tag (tile=3) -->
+	<div id="gptAdSlot3"></div><!-- End ad tag -->
+</div>
+<div class='BlueBarIncome'>INCOME SNAPSHOT</div><div class='SmTxt'><strong>Median household income</strong><br><div class='DottedLine'></div>Local<HR COLOR=#CCFFFF size='6' width='136.00514359194' align=left>$28,557<div class='DottedLine'></div>National<HR COLOR='#E4E4E4' size='6' width='200' align=left>$41,994<br><div class='DottedLine'></div><em>Source: 2000 census, U.S. Census Bureau</em><div class='DottedLine'></div><em>For more census details and comparisons, see our <A href='/cgi-bin/popInfo.php?locIndex=20169'>Carthage demographic reports</a></em>
+</div>
+
+<div class='InLineFloatRight190'>
+<div align='center' class='BlueBarAd190'>
+<a name="Esse"></a> ESSENTIALS</div>
+<div class='Padding5'>
+<B>EMPLOYMENT:</B><BR>&nbsp;&nbsp;<a
+href='http://www.indeed.com/p/index.php?pid=6026606352233534&q=&l=Carthage+MO' >Local jobs</a><BR>&nbsp;&nbsp;<a href='http://www.indeed.com/p/index.php?pid=6026606352233534&q=&l=Carthage+MO' >Post a job</a><BR><B>HOUSING:</B><BR>&nbsp;&nbsp;<a href='http://affiliate.foreclosure.com/scripts/t.php?a_aid=22781&a_bid=&desturl=http%3A%2F%2Fwww.foreclosure.com%2Fsearch.html%3Fci%3DCarthage%26st%3DMO' target='_top' >Find Foreclosure</a><BR>&nbsp;&nbsp;<A HREF='http://bl.homegain.com/MO/carthage.html?entryid=5049&ht=bdepodunkblcity'>Local homes for sale</A><BR><B>LODGING:</B><BR>&nbsp;&nbsp;<a href='/cgi-bin/localProx.php?local=20169&locTGroup=Hotels&searchStr=&parseMethod=any&dist=5&distLbl=miles&sec=0&Submit=Search'>Nearby hotels</a><BR><B>PEOPLE:</B><BR>&nbsp;&nbsp;<A href='/cgi-bin/genealogyInfo.php?locIndex=20169'>Carthage family histories</a><BR><B>RECORDS:</B><BR>&nbsp;&nbsp;<A HREF='/cgi-bin/record-search-birth.php?locIndex=20169'>Birth, marriage & death</A><BR>&nbsp;&nbsp;<A HREF='/cgi-bin/record-search-court-land.php?locIndex=20169'>Court, land & probate</A><BR>&nbsp;&nbsp;<A HREF='/cgi-bin/record-search-military.php?locIndex=20169'>Military</A><BR></div></div>
+
+<!-- Text Property Information -->
+<!-- google_ad_region_start=textProp -->
+
+
+<!-- geoLocation -->
+<div class="simpleText">
+Carthage is on the Spring River.
+</div>
+
+<!-- histFact -->
+<div class="simpleText">
+Site of an 1861 Civil War battle
+</div>
+
+<!-- crime -->
+<div class="simpleText">
+<b>Crime:</b> The number of violent crimes recorded by the FBI in 2003 was 42. The number of murders and homicides was 4. The violent crime rate was 3.3 per 1,000 people.
+</div>
+
+<!-- famousRes -->
+<div class="simpleText">
+<b>Well-known residents have included:</b><br>&middot; Carl Hubbell, baseball player<br>&middot; Belle Starr, outlaw
+</div>
+
+<!-- festival -->
+<div class="simpleText">
+<b>Local festivals include:</b><ul class="gIList2"><li>Acoustic Music Festival - June 8-9, 2007<li>Festival of Carthage - June 8-10, 2007</ul>
+<div class='SmTxtItal'>Dates often change. Check Carthage web sites and events links in the sections below.</div>
+
+<div class="MoreLink">
+<a href="#" onclick="submitToMyeP(document.submitTextfestival); return false;">Send us festival info for Carthage</a>
+</div>
+</div>
+
+<!-- histSite -->
+<div class="simpleText">
+<b>Historic sites and museums:</b> Battle of Carthage State Historic Site, Phelps House, Powers Museum
+</div>
+
+<!-- librarySupport -->
+<div class="simpleText">
+<b>Support for libraries:</b> Local government funding for the local library system, in fiscal years 2001-2002, was  below the national average. (See library links below.)</div><br clear=all><!-- google_ad_region_end=textProp -->
+
+
+
+<h2 class=MTLA>Listed places near Carthage</h2><a name="local-map"></a>
+<div class='SmTxt'>
+Click on a group to see the items on the map</div>
+<!-- Begin new map output -->
+	<form name="typeList" method="get" action="#" class="Form" style="margin:0;padding:0">
+
+			<div class="linkbox">
+				<a href="/cgi-bin/localList.php?local=20169&amp;locTGroup=Cemeteries&amp;direction=down&forward=true">Cemeteries (17)</a>
+				<input type="hidden" name="checked" value="0" />
+				<input type="hidden" name="tgroup" value="Cemeteries" />
+			</div>
+			<div class="linkbox">
+				<a href="/cgi-bin/localList.php?local=20169&amp;locTGroup=Communities&amp;direction=down&forward=true">Communities (5)</a>
+				<input type="hidden" name="checked" value="0" />
+				<input type="hidden" name="tgroup" value="Communities" />
+			</div>
+			<div class="linkbox">
+				<a href="/cgi-bin/localList.php?local=20169&amp;locTGroup=Hotels&amp;direction=down&forward=true">Hotels (3)</a>
+				<input type="hidden" name="checked" value="0" />
+				<input type="hidden" name="tgroup" value="Hotels" />
+			</div>
+			<div class="linkbox">
+				<a href="/cgi-bin/localList.php?local=20169&amp;locTGroup=Libraries&amp;direction=down&forward=true">Libraries (1)</a>
+				<input type="hidden" name="checked" value="0" />
+				<input type="hidden" name="tgroup" value="Libraries" />
+			</div>
+
+	</form>
+	<div class="noprogress" id="mapProgress">&nbsp;</div>
+	<div id="localListMap" style="height:400px;width:398px;margin-bottom:3px;">
+		Please wait while the map loads...
+		<a href="#" onclick="window.onload=null;Body_onLoad();return false;">click here to force load</a>
+	</div>
+	<form name="mapSearch" action="#" method="get" onsubmit="doMapSearch();return false;" style="margin:0;padding:0;">
+		<div class="hidden">
+			<input type="text" name="searchMap" id="searchMap" value="" />
+			<input type="submit" value="Search this map" />
+		</div>
+	</form>
+	<div id="mapOutput"></div>
+	<div style="display:none"><div id="mapData"><strong>Carthage</strong><br />
+<em class="st">Jasper County</em><br />
+<em class="st">Missouri</em></div></div>
+	<script language="javascript" type="text/javascript" src="/MyeP/ajax.js"></script>
+	<script language="javascript" type="text/javascript" src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAvsmUQi_vfC3yRML3NIISVRRH2NtAHitlsSloKIruP-T_yBJGCBTWd9uJc4MQ-sldrHvHNg88PvrBbw"></script>	<script language="javascript" type="text/javascript" src="/Common/gmapMarkerManager.js"></script>
+	<script language="javascript" type="text/javascript" src="/Common/utilsLocalListMap.js"></script>
+	<script language="javascript" type="text/javascript">
+		registerOnLoadData(initMap,'37.176,-94.31,20169');
+		registerOnLoadData(initLocList,'');
+		window.onload=Body_onLoad;
+	</script>
+<!-- End new map output -->
+Add extra pins to the map by clicking on the list above the map.
+You may click the displayed pins for more information, or search
+the displayed pins by using the above search field.
+
+<div>
+<script type="text/javascript" src="http://tags.chitika.net/oneliners/epodunk/epodunk.js"></script></div>
+
+<div class='MedTypeLineAbove'><a name='Cens'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>
+Census & demographics
+</div><ul class=gIList2><li><a href='/cgi-bin/popInfo.php?locIndex=20169'>Carthage population</a></li><li><a href='/cgi-bin/genealogyInfo.php?locIndex=20169'>Ancestry of people in Carthage</a></li><li><a href='/cgi-bin/housOverview.php?locIndex=20169'>Housing in Carthage</a></li><li><a href='/cgi-bin/incomeOverview.php?locIndex=20169'>Income in Carthage</a></li><li><a href='/cgi-bin/maritalInfo.php?locIndex=20169'>Marital status of adults in Carthage</a></li><li><a href='/cgi-bin/birthPlace.php?locIndex=20169'>Place of birth of people in Carthage</a></li><li><a href='/cgi-bin/mobilityInfo.php?locIndex=20169'>Residence in 1995, of people in Carthage</a></li><li><a href='/cgi-bin/educLevel.php?locIndex=20169'>School enrollment & education levels in Carthage</a></li><li><a href='/cgi-bin/incomeCommute.php?locIndex=20169'>Transportation & commute times in Carthage</a></li><li><a href='/cgi-bin/genInfo.php?locIndex=20388'>Jasper County  data</a></li><li><a href='/top10/countyPop/coPop26.html'>Fastest-growing counties in Missouri</a></li><li><a href='/cgi-bin/genInfo.php?locIndex=26'>State data - Missouri</a></li><li><a href='http://factfinder.census.gov/servlet/AGSGeoAddressServlet?_lang=en&_programYear=50&_treeId=420'>Data by street address</a></li><li><a href='http://www.jdoqocy.com/click-1155785-10467612'>Historical census records</a> <i>(Ancestry.com)</i></li>
+</ul>
+<p>Sections below provide additional information and links about Carthage demographics, travel and tourism, nearby airports, cemeteries, the Jasper County economy, education, environment, genealogy, government, historic sites, Joplin area jobs, libraries, maps, museums, newspapers and other media, nonprofit groups, real estate, recreation, religion, transportation, and weather in the 64836 ZIP code.</p>
+<a name='locator-map'><img src='http://pix.epodunk.com/locatorMaps/mo/MO_20169.gif' alt='Carthage, MO locator map' width='400' length='250'></a><BR>(Also see <a href='#local-map'>local map</a> below.)
+
+<!-- Begin Tree Widget Ancestry.com -->
+<div style="background:url(http://c.ancestry.com/Affiliate/Banners/Trees/1108/treeWidget300_250.gif) no-repeat top left; height:250px; width:300px; position:relative;">
+<form action="http://www.jdoqocy.com/interactive" target="_blank" style="margin:0; padding:0;" method="get">
+<input type="text" name="fn" style="background:url(http://c.ancestry.com/Affiliate/Banners/Trees/1108/text-bkgd2.gif) no-repeat top left; border-width:1px; border-style:solid; border-color:#757575 #a6a6a4 #a6a6a4 #a6a6a4; color:#695e49; font:12px Verdana, Arial, Helvetica, sans-serif; line-height:17px; height:16px; width:114px; margin:0; padding:1px 5px; position:absolute; top:84px; left:18px;" />
+<input type="text" name="ln" style="background:url(http://c.ancestry.com/Affiliate/Banners/Trees/1108/text-bkgd2.gif) no-repeat top left; border-width:1px; border-style:solid; border-color:#757575 #a6a6a4 #a6a6a4 #a6a6a4; color:#695e49; font:12px Verdana, Arial, Helvetica, sans-serif; line-height:17px; height:16px; width:114px; margin:0; padding:1px 5px; position:absolute; top:84px; left:156px;" />
+<select id="gen" name="gen" style="border-width:1px; border-style:solid; border-color:#757575 #a6a6a4 #a6a6a4 #a6a6a4; color:#695e49; font:12px Verdana, Arial, Helvetica, sans-serif; line-height:12px; height:20px; width:88px; position:absolute; top:134px; left:156px;" >
+<option value="M">Male</option>
+<option value="F">Female</option>
+</select>
+<input name="startTree" type="image" src="http://c.ancestry.com/Affiliate/Banners/Trees/1108/large-button.gif" style="border:none; cursor:pointer; position:absolute; top:172px; left:156px;" />
+
+<input type="hidden" name="aid" value="10511811"/>
+<input type="hidden" name="pid" value="1155785"/>
+<input type="hidden" name="url" value="http://trees.ancestry.com/pt/StartPed.aspx"/>
+</form>
+</div>
+<!-- End Tree Widget Ancestry.com -->
+<img src="http://www.ftjcfx.com/image-1155785-10511811" width="1" height="1" border="0"/><p></p><p><div class='MedTypeLineAbove'><a name='Ance'></a><div align='right' class='Top'><a href='#top' class='SmTxt'><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Ancestry & family history
+</div>
+<div class='InLineFloatRight190'>
+<div align='center' class='BlueBarAd190'>FAMILY HISTORY TOPICS</div><div class='Padding5'>&middot; <A href='/cgi-bin/genealogyInfo.php?locIndex=20169'>Carthage family history guide</a><br>&middot; <a href='/search/record-search-birth.html'>Birth & death records</a><br>&middot; <a href='/search/record-search-census.html'>Census  records</a><br>&middot; <a href='/search/record-search-court-land.html'>Court & land records</a><br>&middot; <a href='/search/record-search-family-local_history.html'>Family & local history</a><br>&middot; <a href='http://www.dpbolvw.net/click-1155785-10467605'>Family tree maker</a><br>&middot; <a href='/search/record-search-immigration.html'>Immigration records</a><br>&middot; <a href='/search/record-search-military.html'>Military records</a><br>&middot; <a href='/search/record-search-newspapers.html'>Newspapers</a><br>&middot; <a href='/search/record-search-obituaries.html'>Obituaries</a><br></div></div>
+<p>18% of Carthage residents report German ancestry, and 11% report Irish. For more info on local ancestry groups, see the <A href='/cgi-bin/genealogyInfo.php?locIndex=20169'>Carthage ancestry & family history guide</a>.</p><p><ul class='gIList2'><li><A HREF='/cgi-bin/localProx.php?local=20169&locTGroup=Cemeteries&dist=5&distLbl=miles&searchStr=&parseMethod=&sec=0'>Cemeteries in or near Carthage</A></li><li><A HREF='/cgi-bin/localList.php?local=20388&locTGroup=Cemeteries&direction=down&stateAbbv=MO&stateName=missouri'>Cemeteries in Jasper County</A></li><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Libraries&searchStr=&parseMethod=any&dist=10&distLbl=miles&sec=0&Submit=Search'>Libraries in or near Carthage</a></li></ul>
+<p>
+<b>Post a query on a message board:</b></p>
+<ul class='gIList'><li><A HREF='http://www.tkqlhce.com/click-1155785-10470501?url=http%3A%2F%2Fboards.ancestry.com%2Flocalities.northam.usa.states.missouri.counties.Jasper%2Fmb.ashx'>Jasper County Ancestry forum</A></li><li><a href='http://www.jdoqocy.com/click-1155785-10470501?url=http%3A%2F%2Fgenforum.genealogy.com%2Fcgi-bin%2Fsearch.cgi%3Fforum%3Dmo%26url%3D%252Fmo%252F%26path%3D%252Fny%252F%26terms%3DCarthage%26boolean%3DAND'>GenForum</a></li></ul><p><b>Records & databases:</b></p>
+<ul class='gIList'>
+<li><A HREF='http://www.anrdoezrs.net/click-1155785-10470501?url=http%3A%2F%2Fwww.ancestry.com%2Fsearch%2Flocality%2Fdbpage.aspx%3Ftp%3D2%26p%3D28'>Ancestry.com - MO data</A></li><li><A HREF='/cgi-bin/record-search-birth.php?locIndex=20169'>Birth, marriage & death records</A></li><li><A HREF='http://www.dpbolvw.net/click-1155785-10470501?url=http%3A%2F%2Fwww.ancestry.com%2Fsearch%2Fdb.aspx%3Fdbid%3D3016'>Cemetery records</A></li><li><A HREF='http://www.kqzyfj.com/click-1155785-10470501?url=http%3A%2F%2Fwww.ancestry.com%2Fsearch%2Fdb.aspx%3Fdbid%3D3227'>County history catalog</A></li><li><A HREF='/cgi-bin/record-search-census.php?locIndex=20169'>Census records (historic)</A></li><li><A HREF='/cgi-bin/record-search-court-land.php?locIndex=20169'>Court, land & probate records</A></li><li><A HREF='http://www.jdoqocy.com/click-1155785-10467297'>Death index</A></li><li><A HREF='/cgi-bin/record-search-family-local_history.php?locIndex=20169'>Family & local history</A></li><li><A HREF='/cgi-bin/record-search-immigration.php?locIndex=20169'>Immigration records</A></li><li><A HREF='/cgi-bin/record-search-military.php?locIndex=20169'>Military records (historic)</A></li><li><A HREF='/cgi-bin/record-search-newspapers.php?locIndex=20169'>Newspaper articles</A></li></ul>
+<div class='MedTypeLineAbove'><a name='Attr'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Attractions</div>
+<ul class='gIList2'><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Museums&searchStr=&parseMethod=any&dist=20&distLbl=miles&sec=0&Submit=Search&stateAbbv=MO&stateName=missouri'>Carthage museums</a></li><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Historic_sites&searchStr=&parseMethod=any&dist=20&distLbl=miles&sec=0&Submit=Search'>Carthage historic sites</a></li><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Parks&searchStr=&parseMethod=any&dist=20&distLbl=miles&sec=0&Submit=Search'>Carthage area parks</a></li><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Wineries&searchStr=&parseMethod=any&dist=20&distLbl=miles&sec=0&Submit=Search'>Wineries near Carthage</a></li><!-- google_ad_region_end=URLs2  --></ul>
+<div class='MedTypeLineAbove'><a name='Book'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Books</div>
+<ul class='gIList2'><li><!--<IMG SRC='http://service.bfast.com/bfast/serve?bfmid=2181&sourceid=40312404&bfpid=0738507652&bfmtype=book' BORDER='0' WIDTH='1' HEIGHT='1' NOSAVE >--><A HREF='http://service.bfast.com/bfast/click?bfmid=2181&sourceid=40312404&bfpid=0738507652&bfmtype=book'>Carthage Missouri (Images of America) 
+</A></li>
+</ul>
+<div class="DottedLine" style="margin-top:10px;margin-bottom:5px;"></div><center>
+<script language="javascript" type="text/javascript">
+	if (typeof epod_hints == 'undefined') {
+		var epod_hints = "Carthage, missouri";
+	}
+</script>
+<!-- begin ad tag (tile=4) -->
+	<div id="gptAdSlot4"></div><!-- End ad tag -->
+</center>
+<div class='MedTypeLineAbove'><a name='Ceme'></a>Cemeteries</div>
+<ul class='gIList2'><li><A HREF='/cgi-bin/localProx.php?local=20169&locTGroup=Cemeteries&dist=15&distLbl=miles&searchStr=&parseMethod=&sec=0'>Add a local cemetery to our listings</A></li><li><A HREF='/cgi-bin/localProx.php?local=20169&locTGroup=Cemeteries&dist=15&distLbl=miles&searchStr=&parseMethod=&sec=0'>Carthage area cemeteries</A></li><li><A HREF='/cgi-bin/localList.php?local=20388&locTGroup=Cemeteries&direction=down&stateAbbv=MO&stateName=missouri'>Cemeteries in Jasper County</A></li><li><A HREF='http://www.jdoqocy.com/click-1155785-10470501?url=http%3A%2F%2Fwww.ancestry.com%2Fsearch%2Fdb.aspx%3Fdbid%3D3016'>Cemetery record compendium</A></li><li><A HREF='http://www.anrdoezrs.net/click-1155785-10470501?url=http%3A%2F%2Fboards.ancestry.com%2Ftopics.cemetery.us.MO%2Fmb.ashx'>Missouri cemetery message boards</A></li><li><A HREF='http://www.kqzyfj.com/click-1155785-10470501?url=http%3A%2F%2Fwww.ancestry.com%2Fsearch%2Fdb.aspx%3Fdbid%3D3016'>National database of cemetery records</A></li><li><a href='http://gravelocator.cem.va.gov' target='_blank'>Veteran grave locator</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Comm'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Communities</div><ul class='gIList2'><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Communities&dist=25&distLbl=miles&searchStr=&parseMethod=&sec=0'>Communities near Carthage</a></li><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Communities&dist=25&distLbl=miles&searchStr=&parseMethod=&sec=0&cityPop=10000'>Nearby cities of 10,000 or more</a></li><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Communities&dist=50&distLbl=miles&searchStr=&parseMethod=&sec=0&cityPop=50000'>Nearby cities of 50,000 or more</a></li><li><a href='/cgi-bin/localList.php?local=20388&locTGroup=Communities&direction=down&stateAbbv=MO&stateName=missouri'>Communities in Jasper County</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Comp'></a>Companies</div><ul class='gIList2'><li><a href='/cgi-bin/bizInfo.php?locIndex=20169'>Carthage business guide</a></li><li><a href='http://us.bbb.org/WWWRoot/SitePage.aspx?site=113&id=a527d7a7-75f0-454d-a861-386e69c9b98d'>Better Business Bureau</a></li><li><a href='' target='_blank'>Business licenses</a></li><li><a href='https://www.sos.mo.gov/BusinessEntity/soskb/csearch.asp' target='_blank'>Corporate records  search</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Cour'></a>Courts & laws</div><ul class='gIList2'><li><a href='http://www.publicrecordsinfo.com/court_records/missouri_court_records.htm'>Courts in Missouri</a></li><li><a href='http://www.municode.com/resources/code_list.asp?stateID=25' target='_blank'>Local ordinances in Missouri</a> <i>(Partial selection)</i></li><li><a href="http://www.boomerater.com/attorneys/lawyers-in-Carthage_Missouri">Lawyers in Carthage</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Crim'></a>Crime</div><ul class='gIList2'><li><a href='http://www.fedstats.gov/mapstats/crime/county/29097.html' target='_blank'>Crime in Jasper County</a></li><li><a href='http://www.fedstats.gov/mapstats/arrests/county/29097.html' target='_blank'>Arrests in Jasper County</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Deat'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Deaths</div><ul class='gIList2'><li><A HREF='/cgi-bin/localProx.php?local=20169&locTGroup=Newspapers&searchStr=&parseMethod=any&dist=20&distLbl=miles&sec=0&Submit=Search'>Obituaries</a> - <i>search nearby newspapers</i></li><li><A HREF='http://www.dpbolvw.net/click-1155785-10470501?url=http%3A%2F%2Fwww.ancestry.com%2Fsearch%2Frectype%2Fdefault.aspx%3Frt%3D38'>Obituary database</a> - <i>Ancestry.com</i></li><li><A HREF='http://www.guidestar.org/search/index.jsp' target='_blank'>Charitable donations</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Disa'></a>Disability access & rights</div><ul class='gIList2'><li><A href='/cgi-bin/accessInfo.php?locIndex=20169'>Local information on disability access</a></li><li><A HREF='http://www.usdoj.gov/crt/ada/adahom1.htm' target='_blank'>Americans with Disabilities Act</a></li><li><A HREF='http://www.ilru.org/html/publications/directory/missouri.html' target='_blank'>Independent living centers in Missouri</a></li><li><A HREF='http://www.ncil.org/' target='_blank'>National Council on Independent Living</a></li><li><A HREF="http://www.boomerater.com/senior-living/senior-housing-in-Carthage_Missouri">Assisted Living in Carthage</a></li><li><A HREF='http://www.boomerater.com/senior-living/senior-caregivers-in-Carthage_Missouri'>Home Care in Carthage</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Econ'></a>Economy</div><p>At the time of the 2000 census, the per capita income in Carthage was $15,281, compared with $21,587 nationally.</p><ul class='gIList2'><li><a href='http://www3.fdic.gov/idasp/main.asp' target='_blank'>Banks</a> </li><li><a href='http://socds.huduser.org/permits/index.html?' target='_blank'>Building permits</a></li><li><a href='http://socds.huduser.org/scripts/odbic.exe/BLS_LAUS/SCREEN1.htm' target='_blank'>Current labor force</a></li><li><a href='http://www.bls.gov/oes/2000/oessrcma.htm' target='_blank' >Wage estimates</a></li><li><a href='http://www.census.gov/econ/census02/data/mo/MO097.HTM' target='_blank'>Jasper County  economic census</a></li><li><a href='http://www.bea.gov/bea/regional/bearfacts/action.cfm?fips=29097&areatype=29097&yearin=2001' target='_blank'>Jasper County economic summary</a></li><li><a href='http://www2.fdic.gov/recon/ovrpt.asp?CPT_CODE=E10&ST_CODE=29&RPT_TYPE=Tables' target='_blank'>Jasper County employment growth</a></li><li><a href='http://www2.fdic.gov/recon/ovrpt.asp?CPT_CODE=E40&ST_CODE=29&RPT_TYPE=Tables' target='_blank' >Jasper County unemployment rate</a></li><li><a href='/cgi-bin/genInfo.php?locIndex=26' target='_blank'>Missouri economic data</a><li><A HREF="http://www.boomerater.com/financial-advisors-in-Carthage_Missouri">Financial Advisors in Carthage</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Educ'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Education</div><p>14% of Carthage residents age 25 and older have a bachelor's or advanced college degree.</p><ul class='gIList2'><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Colleges&searchStr=&parseMethod=any&dist=40&distLbl=miles&sec=0&Submit=Search' target='_blank'>Colleges in or near Carthage</a></li><li><a href='http://www.epodunk.com/cgi-bin/localList.php?local=26&locTGroup=Colleges&direction=down&sec=0&stateAbbv=MO&stateName=missouri' target='_blank'>Colleges in Missouri</a></li><li><a href='http://www.ldanatl.org/state_chapters/state_info.asp#MO' target='_blank'>Learning Disabilities Association in Missouri</a></li><li><a href='http://www.epodunk.com/cgi-bin/education.php?state=MO&city=Carthage'  target='_blank'>Schools in or near Carthage</a></li><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=School_districts&searchStr=&parseMethod=any&dist=10&distLbl=miles&sec=0&Submit=Search' target='_blank'>School districts in or near Carthage</a></li><li><a href='http://www.dese.mo.gov/schooldata/' target='_blank'>School report cards</a></li><li><a href='http://www.dpbolvw.net/click-1155785-10470501?url=http%3A%2F%2Fcontent.ancestry.com%2FBrowse%2Flist.aspx%3Fdbid%3D8943%26path%3DMissouri%26o_xid%3D0039743482%26o_lid%3D0039743482%26o_xt%3D1155785'>Yearbooks (old) of Missouri high schools</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Ente'></a>Entertainment</div><ul class='gIList2'><li><a href='http://www.fandango.com/Carthage_MO_movietheatershowtimes' target='_blank'>Movies playing in or near Carthage</a></li><li><a href='http://www.youtube.com/results?search_query=Carthage+MO' target='_blank'>YouTube videos about Carthage</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Envi'></a>Environment</div><ul class='gIList2'><li><a href='http://www.scorecard.org/env-releases/cap/county.tcl?fips_county_code=29097' target='_blank'>Air pollution in Jasper County</a></li><li><a href='http://www.catf.us/projects/diesel/dieselhealth/county.php?c=29097&site=0' target='_blank'>Diesel soot in Jasper County</a></li><li><a href='http://www.scorecard.org/env-releases/land/county.tcl?fips_county_code=29097' target='_blank'>Land contamination in Jasper County</a></li><li><a href='http://nature.org/wherewework/northamerica/states/missouri/' target='_blank'>Nature Conservancy projects in Missouri</a></li><li><a href='http://lungaction.org/reports/sota05_county.html?fcc=29097' target='_blank'>Ozone status & air pollution</a> - <i>American Lung Association</i></li><li><a href='http://www.scorecard.org/env-releases/county.tcl?fips_county_code=29097' target='_blank'>Toxic chemical releases in Jasper County</a></li><li><a href='http://water.usgs.gov/cgi-bin/waterwatch?map_type=real&state=mo' target='_blank'>Water levels & streamflow conditions in Missouri</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Fair'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Fairs, festivals & other events</div>
+<b>Carthage festival dates:</b>
+<ul class='gIList2'>
+<li>Festival of Carthage -  J</li>
+<li>Acoustic Music Festival -  J</li>
+</ul>
+<p><i>Dates often change. Check with local tourism officials to be sure.</i></p>
+<ul class='gIList2'><li><a href='http://www.epodunk.com/festivals/index.html'>ePodunk festival listings</a></li>
+<li><a href='http://www.missourifairsandfestivals.org' target='_blank'>Missouri county fairs</a></li>
+<li><a href='http://www.visitmo.com/EventsHome.cfm' target='_blank'>Missouri festivals</a> <i>(Missouri tourism department)</i></li>
+<li><a href="#" onclick="submitToMyeP(document.submitTextfestival); return false;">Send us festival info for Carthage</a></li>
+</ul>
+<form name="submitTextfestival" method="post" action="http://my.epodunk.com/cgi-bin/homeMyeP.php?homeMode=tSub" style="margin:0;padding:0;" onsubmit="return submitToMyeP(this);">
+<input type="hidden" name="homeMode" value="tSub" />
+		<input type="hidden" name="tpid" value="uc-festival" />
+		<input type="hidden" name="curID" value="20169" />
+		<input type="hidden" name="destDB" value="us_dbo" />
+		<input type="hidden" id="MRAbbrev"  name="MRAbbrev"  value="MO" />
+		<input type="hidden" name="sourceURL" value="" />
+		<input type="hidden" name="sourceLBL" value="" />
+		<input type="hidden" name="curloc" value="Carthage" />
+	</form>
+
+<div class='MedTypeLineAbove'><a name='Geoc'></a>Geocaching & geography</div><ul class='gIList2'><li><a href='http://www.confluence.org/confluence.php?lat=37.176&lon=-94.31' target='_blank'>Confluence of latitude & longitude near Carthage</a></li><li><a href='http://www.geocaching.com/local/default.aspx?state_id=26&submit2=GO'  target='_blank'>Geocaches in Missouri</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Gift'></a>Gifts & collectibles</div><ul class='gIList2'><li><a href='http://rover.ebay.com/rover/1/711-1751-2978-71/1?AID=5463217&PID=1155785&mpre=http%3A%2F%2Fsearch.ebay.com%2Fcarthage-MO'>Carthage items now on sale</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Gove'></a>Government</div><div class='InLineFloatRight190'>
+<div class='BlueBarAd190'>POLITICS</div>
+<div class='Padding5'><a href='/cgi-bin/politicalInfo.php?locIndex=20169'>Carthage political info</A></div>
+</div><ul class='gIList2'><li><a href='http://www.naco.org/Template.cfm?Section=Find_a_County&Template=/cffiles/counties/county.cfm&id=29097' target='_blank'>Jasper County  government</a></li><li><a href='http://www.state.mo.us/' target='_blank'>Missouri state government</a></li><li><a href='http://www.dor.mo.gov/mvdl/' target='_blank'>Driver's licenses</a></li><li><a href='http://www.dor.mo.gov/mvdl/motorv/' target='_blank'>Motor vehicles</a></li><li><a href='http://iafdb.travel.state.gov/' target='_blank'>Passports</a></li><li><a href='https://s044a90.ssa.gov/apps6z/FOLO/fo001.jsp' target='_blank'>Social Security</a></li><li><a href='http://www1.va.gov/directory/guide/state.asp?dnum=ALL&State=MO' target='_blank'>Veterans affairs</a></li><li><a href='http://www.cdc.gov/nchs/howto/w2w/missouri.htm' target='_blank'>Where to write for birth, death, marriage or divorce records</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Guid'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Guides to Carthage</div><ul class='gIList2'><li><A href='/cgi-bin/genealogyInfo.php?locIndex=20169'>Ancestry & family history</a></li><li><A href='/cgi-bin/bizInfo.php?locIndex=20169'>Business</a></li><li><A href='/cgi-bin/popInfo.php?locIndex=20169'>Demographics</a></li><li><A href='/cgi-bin/healthInfo.php?locIndex=20169'>Health</a></li><li><A href='/cgi-bin/movInfo.php?locIndex=20169'>Moving</a></li><li><A href='/cgi-bin/nonprofitInfo.php?locIndex=20169'>Nonprofit resources</a></li><li><A href='/cgi-bin/sportsInfo.php?locIndex=20169'>Sports & rec</a></li><li><A href='/cgi-bin/travInfo.php?locIndex=20169'>Travel</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Heal'></a>Health</div><ul class='gIList2'><li><a href='/cgi-bin/healthInfo.php?locIndex=20169'>Carthage medical  services & health statistics</A></li><li><A HREF="http://www.boomerater.com/senior-living/senior-housing-in-Carthage_Missouri">Alzheimer's Care in Carthage</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Hist'></a>Historical societies</div><ul class='gIList2'><li><a href='http://www.umsystem.edu/shs/DirectoryMap.htm' target='_blank'>Local historical societies in Missouri</a></li><li><a href='http://www.mohistory.org/' target='_blank'>State historical society</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Hist'></a>Historical societies</div><ul class='gIList2'><li><a href='http://www.umsystem.edu/shs/DirectoryMap.htm' target='_blank'>Local historical societies in Missouri</a></li><li><a href='http://www.mohistory.org/' target='_blank'>State historical society</a></li></ul><div class='MedTypeLineAbove'><a name='Hist2'></a>History
+</div><ul class='gIList2'><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Historic_sites&searchStr=&parseMethod=any&dist=30&distLbl=miles&sec=0&Submit=Search'>Historic sites in or near Carthage</a></li><li><a href='http://www.epodunk.com/cgi-bin/localList.php?local=26&locTGroup=Historic_sites&direction=down&sec=0&stateAbbv=MO&stateName=missouri'>Historic sites in Missouri</a></li><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Museums&searchStr=&parseMethod=any&dist=30&distLbl=miles&sec=0&Submit=Search&stateAbbv=MO&stateName=missouri'>Museums in or near Carthage</a> </li><li><a href='/cgi-bin/localList.php?local=26&locTGroup=Museums&direction=down&sec=0&stateAbbv=MO&stateName=missouri'>Museums in Missouri</a></li><li><a href='http://www.sos.mo.gov/archives/'>Missouri state archives</a></li><li><a href='http://tps.cr.nps.gov/nhl/' target='_blank'>National Historic Landmark search</a></li><li><a href='http://memory.loc.gov/' target='_blank'>Search the Library of Congress</a></li><li><a href='http://www.nr.nps.gov/' target='_blank'>Search the National Register for historic properties</a></li><li><a href='http://www.tkqlhce.com/click-1155785-10470501?url=http%3A%2F%2Fboards.ancestry.com%2Flocalities.northam.usa.states.missouri.counties.Jasper%2Fmb.ashx'>Post history questions in Jasper County genealogy forum</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Hous'></a><a name='Real'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Housing & real estate</div><p>Median rent in Carthage, at the time of the 2000 Census, was $320. &nbsp; Monthly homeowner costs, for people with mortgages, were   $616.</p><ul class='gIList2'><li><a href='http://affiliate.foreclosure.com/scripts/t.php?a_aid=22781&a_bid=&desturl=http%3A%2F%2Fwww.foreclosure.com%2Fsearch.html%3Fci%3DCarthage%26st%3DMO'>Find Foreclosure in Carthage</a></li><li><A HREF='http://bl.homegain.com/MO/carthage.html?entryid=5049' rel='nofollow'>Homes for sale in Carthage</A></li><li><a href='http://www.homegain.com/client/agents/?entryid=4936'>Find a Carthage Realtor</a></li><li><a href='http://www.realestateabc.com/moving'>Get free moving quotes</A></li><li><a href='http://www.realestateabc.com/home-values/'>Free home valuation</a></li><li><a href='http://www.loan.com/mortgage-rates/MO/30yrfixed/0.5/200000' rel='nofollow'>Check Missouri mortgage rates</A></li><li><a href='http://www.intelius.com/property-check.html?refer=2215&adword=property+report'>Property and neighborhood reports</A></li><li><a href='http://www.mortgage101.com/partner-scripts/calculators.asp'>Mortgage calculator</A></li><li><A HREF="http://www.boomerater.com/senior-living/senior-housing-in-Carthage_Missouri">Independent Living in Carthage</a></li></ul><BR>
+<div class='MedTypeLineAbove'><a name='Jobs'></a>Jobs</div><ul class='gIList2'><li><a
+href='http://www.careerbuilder.com/default.aspx?lr=cbepodunk&siteid=epodunk001&cbRecursionCnt=1&cbsid=b83b91e64fa84930ba032cb4ee528b47-333122412-VK-4'
+>Jobs in the Carthage area</a></li><li><a href='http://maps.servicelocator.org/portal/sl_map.asp?state=29' target='_blank'>Job services in Missouri</a></li><li><a href='http://www.dol.gov/esa/minwage/america.htm' target='_blank'>Minimum wage laws by state</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Libr'></a>Libraries</div><p><b>Libraries</b> in Carthage include Carthage Public Library ... <b><A HREF='/cgi-bin/localList.php?local=20169&locTGroup=Libraries&direction=down&sec=0&qty=1&stateAbbv=&stateName='>View libraries</A></b></p><ul class='gIList2'><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Libraries&searchStr=&parseMethod=any&dist=10&distLbl=miles&sec=0&Submit=Search'>Libraries near Carthage</a></li></ul><ul class='gIList2'><li><a href='http://www.sos.mo.gov/library/reference/'>Missouri library</a></li></ul>
+<div class='MedTypeLineAbove'><a name='map-links'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Maps</div><p></p><ul class='gIList2'><li><a href='http://maps.google.com/maps?saddr=CARTHAGE+MO'  target='_blank'>Get directions from Carthage</a></li><li><a href='http://maps.google.com/maps?daddr=CARTHAGE+MO' target='_blank' >Get directions to Carthage</a></li><li><a href='http://factfinder.census.gov/servlet/ReferenceMapFramesetServlet?_bm=y&-context=rm&-PANEL_ID=rm_result&-ds_name=null&-rm_config=|b=50|l=en|t=420|zf=0.0|ms=ref_sd_00dec|dw=0.23535873215161068|dh=0.13167123587626114|dt=gov.census.aff.domain.map.EnglishMapExtent|if=gif|cx=-94.314956665039|cy=37.16777420044|zl=5|pz=5|bo=313:314:316|bl=354:355:356|ft=350:349:335:389:388:332:331|fl=381:403:204:380:369:379:368|g=05000US17031&-tree_id=420&-redoLog=false&-errMsg=&-geo_id=05000US2911656&-format=&-_lang=en' target='_blank'>Census map of Carthage area</a></li><li><a href='http://memory.loc.gov/cgi-bin/query/S?ammem/gmd:@filreq(@field(STATE+@band(missouri))+@field(COLLID+pmmap))' target='_blank'>Historic maps of MO cities</a> - <i>Library of Congress</i></li><li><a href='http://www.tkqlhce.com/click-1155785-10470501?url=http%3A%2F%2Fcontent.ancestry.com%2FBrowse%2Flist.aspx%3Fdbid%3D8739%26path%3DMissouri%26o_xid%3D0039743482%26o_lid%3D0039743482%26o_xt%3D1155785' target='_blank'>Historic maps of Missouri</a></li><li><a href='http://www.topozone.com/map.asp?lat=37.17638&lon=-94.31&s=50&layer=DRG25&size=l&u=2'  target='_blank'>Topographic map of Carthage</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Medi'></a>Media outlets</div><p><b>Newspapers</b> in Carthage include <A HREF='/cgi-bin/genInfo.php?locIndex=65305'>Carthage Press</A></p><p><B>TV stations</B> in Carthage include KDSI-CA.</p><ul class='gIList2'><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Newspapers&searchStr=&parseMethod=any&dist=30&distLbl=miles&sec=0&Submit=Search'>Daily newspapers in or near Carthage</a></li><li><a href='http://www.fcc.gov/fcc-bin/amq?state=&call=&arn=&city=&freq=530&fre2=1700&facid=&list=1&dist=30&dlat2=37&mlat2=10&slat2=35&NS=N&dlon2=94&mlon2=18&slon2=36&EW=W&size=10' target='_blank'>AM radio stations in or near Carthage</a></li><li><a href='http://www.fcc.gov/fcc-bin/fmq?state=&call=&arn=&serv=FC&city=&freq=0.0&fre2=107.9&facid=&class=&dkt=&list=2&dist=50&dlat2=37&mlat2=10&slat2=35&NS=N&dlon2=94&mlon2=18&slon2=36&EW=W' target='_blank'>Commercial FM radio stations in or near Carthage</a></li><li><a href='http://www.fcc.gov/fcc-bin/fmq?state=&call=&arn=&serv=FE&city=&freq=0.0&fre2=107.9&facid=&class=&dkt=&list=2&dist=50&dlat2=37&mlat2=10&slat2=35&NS=N&dlon2=94&mlon2=18&slon2=36&EW=W' target='_blank'>Public & educational radio stations in or near Carthage</a></li><li><a href='http://www.fcc.gov/fcc-bin/tvq?state=&call=&arn=&city=&chan=0.0&chan2=69&facid=&list=2&dist=70&dlat2=37&mlat2=10&slat2=35&NS=N&dlon2=94&mlon2=18&slon2=36'>TV stations in or near Carthage</a></li><li><a href='http://projects.publicintegrity.org/telecom/search/default.aspx?city=Carthage&state=MO' target='_blank'>Media ownership in the Carthage area</a></li><li><A HREF='/cgi-bin/record-search-newspapers.php?locIndex=20169'>Search historic newspaper articles</A></li><li><a href='http://www.newslibrary.com/enter/epodunk?s_referrer=epodunk&d_place=Missouri'>Search recent news archives in Missouri</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Mili'></a>Military</div><ul class='gIList2'><li><a href='/cgi-bin/localList.php?local=26&locTGroup=Military_bases&direction=down&sec=0&stateAbbv=MO&stateName=missouri'>Military bases in Missouri</a></li><li><a href='http://www.legion.org/members/locators/posts' target='_blank'>American Legion post locator</a></li><li><a href='http://www.vfw.org/index.cfm?fa=mbr.levelc&cid=1891&tok=1' target='_blank'>Veterans of Foreign Wars post locator</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Obit'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Obituaries</div><ul class='gIList2'><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Newspapers&searchStr=&parseMethod=any&dist=20&distLbl=miles&sec=0&Submit=Search'>Check daily newspapers in or near Carthage</a></li><li><A HREF='/cgi-bin/record-search-obituaries.php?locIndex=20169'>Search obituaries in Missouri</A></li><li><A HREF='http://oa.newsbank.com/oa-search/we/Archives/?p_action=keyword&p_product=OBAR&p_theme=obar&d_sources=location&d_place=Missouri&kbid=14031&m=19'>Recent death notices</a> - <i>selected MO newspapers</i></li></ul>
+<div class='MedTypeLineAbove'><a name='Orga'></a>Organizations</div><ul class='gIList2'><li><a href='http://www.2chambers.com/missouri.htm' target='_blank'>Chambers of commerce in Missouri</a></li><li><a href='http://www.cof.org/locator/SearchResults.cfm?state=MO' target='_blank'>Community foundations</a> <i>(by state)</i></li><li><a href='http://lnp.fdncenter.org/finder.html' target='_blank'>Foundations</a> <i>(by name)</i></li><li><a href='http://www.kiwanis.org/clubloc/default.asp?sc=MO' target='_blank'>Kiwanis clubs in Missouri</a></li><li><a href='http://www.lionsclubs.org/locator/lions/search_form_state.php' target='_blank'>Lions clubs in Missouri</a></li><li><a href='http://www.guidestar.org/search/index.jsp' target='_blank'>Nonprofit groups</a></li><li><a href='/cgi-bin/nonprofitInfo.php?locIndex=20169'>Nonprofit guide for Carthage</a></li><li><a href='http://www.rotary.org/support/clubs/index.html' target='_blank'>Rotary club search</a></li><li><a href='http://volunteermatch.org/results/?zip=&radius=20&category=Everything&city=Carthage&state=MO&words=&national_org_id=&service_corp=Everything&submit=y' target='_blank'>Volunteer opportunities in or near Carthage</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Park'></a>Parks & recreation</div>
+<div class='InLineFloatRight190'><div class='BlueBarAd190'>SPORTS & REC</div><div class='Padding5'><a href='/cgi-bin/sportsInfo.php?locIndex=20169'>Carthage recreation guide</A></div></div>
+<ul class='gIList2'><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Parks&searchStr=&parseMethod=any&dist=30&distLbl=miles&sec=0&Submit=Search'>Parks near Carthage</a></li><li><a href='http://www.fs.fed.us/recreation/map/state_list.shtml#Missouri' target='_blank'>National forests in Missouri</a></li><li><a href='http://www.mostateparks.com/'>State parks in Missouri</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Pets'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Pets</div><ul class='gIList2'><li><a href='http://www.aspca.org/cgi-bin/aspca_shelter2k5.cgi?StateTxt=MO&CityTxt=Carthage' target='_blank'>Find a local animal shelter</a></li><li><a href='http://www.aspca.org/site/PageServer?pagename=cruelty_report' target='_blank'>Report animal cruelty</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Phot'></a><a name='Post'></a>Photos & post cards</div><ul class='gIList2'><li><a href='http://terraserver-usa.com/image.aspx?Lon=-94.31&Lat=37.17638' target='_blank'>Aerial photo of Carthage</a></li><li><a href='http://memory.loc.gov/ammem/detroit/detrgeogindex1.html' target='_blank'>Historic photos of U.S. cities</a></li><li><a href='http://www.kqzyfj.com/click-1155785-10470501?url=http%3A%2F%2Fcontent.ancestry.com%2FBrowse%2Flist.aspx%3Fdbid%3D8761%26path%3DMissouri%26o_xid%3D0039743482%26o_lid%3D0039743482%26o_xt%3D39743482' target='_blank'>Panoramic photos of Missouri communities</a></li><li><a href='http://www.trekearth.com/gallery/North_America/United_States/Midwest/Missouri' target='_blank'>Photos of Missouri places</a></li><li><a href='/cgi-bin/allImgSt.php?locId=26&imgType=postCard'>Post cards of Missouri communities</a></li></ul>
+
+<div class='MedTypeLineAbove'><a name='Poli'></a>Politics</div>
+<div class='InLineFloatRight190'><div class='BlueBarAd190'>POLITICS</div><div class='Padding5'><a href='/cgi-bin/politicalInfo.php?locIndex=20169'>Carthage political report</A></div></div><p>Jasper County supported George W. Bush in the 2004 presidential election. For more information, see our <a href='/cgi-bin/politicalInfo.php?locIndex=20169'>Carthage political report</A>.</p><ul class='gIList2'><li><a href='http://www.missouridems.org/' target='_blank'>Missouri Democratic party</a></li><li><a href='http://www.mogop.org/' target='_blank'>Missouri Republican  party</a></li><li><a href='http://www.sos.mo.gov/elections/Default.asp' target='_blank'>Missouri elections board</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Post2'></a>Postal Service</div><ul class='gIList2'><li><a href='http://www.usps.com/zip4/'  target='_blank'>ZIP codes</a> <I>(by street address)</I></li><li><a href='http://www.usps.com/ncsc/lookups/lookup_ctystzip.html'  target='_blank'>ZIP codes</a> <I>(by city)</I></li><li><a href='http://www.usps.com/zip4/citytown.htm'  target='_blank'>ZIP code reverse lookup</a> <I>(find cities in a ZIP code)</I></li></ul>
+<div class='MedTypeLineAbove'><a name='Reli'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Religion</div><ul class='gIList2'><li><a href='http://www.switchboard.com/bin/cgidir.dll?PR=120&MEM=1&ST=1&C=Churches&C2=church&CID=36&T=Carthage&S=MO&HA=1&LNK=54:4&SO=2' target='_blank'>Churches, other places of worship in or near Carthage</a></li><li><a href='http://www.thearda.com/mapsReports/reports/counties/29097_2000.asp' target='_blank'>Total membership by faith, in Jasper County</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Rest'></a>Restaurants</div><ul class='gIList2'><li><a href='http://www.chowhound.com/boards/8' target='_blank'>Chowhound message boards for MO</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Traf'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Traffic</div><p>The average commute time for Carthage workers is 17 minutes, compared with 26 minutes nationwide.</p><p>A total of 2 fatal motor vehicle accidents occurred in Carthage between 2001 and 2003, according to reports gathered by the National Highway Traffic Safety Administration.</p><p> This is a rate of 1.6 fatal crashes per 10,000 population, which was lower than the national norm.</p>
+<div class='MedTypeLineAbove'><a name='Trav'></a>Travel</div><p>Hotels in Carthage include <A HREF='/cgi-bin/genInfo.php?locIndex=191317'>Best Western</A>, <A HREF='/cgi-bin/genInfo.php?locIndex=197329'>Econo Lodge</A>, <A HREF='/cgi-bin/genInfo.php?locIndex=213848'>Super 8</A>.</p><ul class='gIList2'><li><a href='/cgi-bin/travInfo.php?locIndex=20169'>Carthage travel guide</A></li><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Airports&searchStr=&parseMethod=any&dist=50&distLbl=miles&sec=0&Submit=Search'>Airports near Carthage</a></li><li><a href='/cgi-bin/localProx.php?local=20169&locTGroup=Hotels&searchStr=&parseMethod=any&dist=10&distLbl=miles&sec=0&Submit=Search'>Hotels near Carthage</a></li><li><a href='http://www.missouritourism.org/' target='_blank'>Missouri tourism bureau</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Weat'></a><div align='right' class='Top'><a href='#top' class=SmTxt><img src='/images/top.gif' alt='' width='12' height='12' border='0'>Top</a></div>Weather</div><ul class='gIList2'><li><a href='http://www.weather.com/activities/other/other/weather/climo-monthly-graph.html?locid=64836'>Monthly averages & records</a></li><li><a href='http://www4.ncdc.noaa.gov/cgi-win/wwcgi.dll?wwEvent~Storms' target='_blank'>Major storms</a> <i>(searchable by county)</i></li><li><a href='http://www.nws.noaa.gov/' target='_blank'>National weather map</a></li></ul>
+<div class='MedTypeLineAbove'><a name='Wild'></a>Wildlife</div><ul class='gIList2'><li><a href='http://www.audubon.org/local/sanctuary/index.html' target='_blank'>Audubon centers</a></li><li><a href='http://www.birding.com/wheretobird/Missouri.asp' target='_blank'>Birding spots in Missouri</a></li><li><a href='http://refuges.fws.gov/profiles/ByState.cfm?state=MO' target='_blank'>Wildlife refuges in Missouri</a></li></ul>
+
+<div class=DottedLine></div>
+
+<!-- End database information -->
+
+
+
+<p class=st><b><a href='/communities_mo.html'>Browse list of Missouri community profiles</a></b>
+
+
+
+
+</div> <!-- end of contentcenter -->
+
+<div id='contentright'>
+
+<!-- stdNavss here -->
+<div align='center' class='RightREBox'><div class='SearchBlueBar'>REAL ESTATE TOOLS</div><div style='margin-left:10px;margin-right:10px;line-height:16px;'><A HREF='http://bl.homegain.com/MO/carthage.html?entryid=5049' rel='nofollow'>Homes for sale in Carthage</A><BR><a href='http://www.homegain.com/client/agents/?entryid=4936' rel='nofollow'>Find a Carthage Realtor</a><BR><a href='http://affiliate.foreclosure.com/scripts/t.php?a_aid=22781&a_bid=&desturl=http%3A%2F%2Fwww.foreclosure.com%2Fsearch.html%3Fci%3DCarthage%26st%3DMO' rel='nofollow'>Find Foreclosure in Carthage</a><BR><a href="http://www.123movers.com/frmLandV2.aspx?se=IBepod" rel="nofollow" alt="Moving Companies">Moving Companies</a><br /><a href="http://www.finweb.com/mortgage/mortgage-rates/">Check Missouri mortgage loan rates</a><BR>
+<script language="javascript" type="text/javascript">
+	if (typeof epod_hints == 'undefined') {
+		var epod_hints = "Carthage, MO";
+	}
+</script>
+<!-- begin ad tag (tile=5) -->
+<div id="gptAdSlot5"></div><!-- End ad tag -->
+<br><a href='http://www.intelius.com/property-check.html?refer=2215&adword=property+report' rel='nofollow'>Get a property & neighborhood report</a><BR><a href="http://www.boomerater.com/senior-living/senior-housing-in-Carthage_Missouri">Senior Living Communities in Carthage </a></div></div>
+		<script language="javascript" type="text/javascript">
+			if (typeof epod_hints == 'undefined') {
+				var epod_hints = "Carthage, missouri";
+			}
+		</script>
+		<!-- begin ad tag (tile=2) -->
+<div id="gptAdSlot2"></div><!-- End ad tag --><script language="JavaScript1.1">function validateCB(FormtoValidate){if (FormtoValidate.QSKWD.defaultValue==FormtoValidate.QSKWD.value){alert("Please enter keyword(s).");return false;}else if (FormtoValidate.QSCTY.defaultValue==FormtoValidate.QSCTY.value){alert("Please enter a city.");return false;}else{return true;}}var agt=navigator.userAgent.toLowerCase(), is_ie = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1)), is_mac = (agt.indexOf("mac")!=-1), is_nav4 = (((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1) && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1) && (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1)) && parseInt(navigator.appVersion) <5);if (!is_nav4) {var stylesheet = '<style type="text/css">\n\t.keyword{font:9px arial, helvetica, sans-serif;';if (is_ie && is_mac) {stylesheet += 'width:130px;}';}else{stylesheet += 'width:135px;}';}stylesheet += '\n\t.city{font:10px arial, helvetica, sans-serif;';if (is_ie && is_mac) {stylesheet += 'width:130px;}';}else{stylesheet += 'width:135px;}';}stylesheet += '\n\t.state{font:9px arial, helvetica, sans-serif;';if (is_ie && is_mac) {stylesheet += 'width:40px;}';}else{stylesheet += 'width:45px;}';}stylesheet += '\n</style>';document.write(stylesheet);}</script><br><br><form action="http://www.indeed.com/p/index.php" METHOD="GET"><input type="hidden" name="pid" value="6026606352233534"><table cellspacing="0" style="font-family:arial" width="258px" bgcolor="#2164f3" bordercolor="#003399" border="1px"><tr><td style="line-height:15px;background-color: #039; font-size: 12px; font-weight: bold; text-align: center; text-transform: uppercase; color:#FFFFFF">Job Search</td></tr><tr><td style="border:0px;font-size:18px;color:#FFFFFF"><b>what</b></td></tr><tr><td style="border:0px;"><input name="q" value="" size="45"></td></tr><tr><td style="border:0px;font-size:12px;color:#FFFFFF">job title, keywords, or company name</td></tr><tr><td style="border:0px;font-size:18px;color:#FFFFFF"><b>where</b></td></tr><tr><td style="border:0px"><input name="l" value="" size="45"></td></tr><tr><td style="border:0px;font-size:12px;color:#FFFFFF">city, state, zip code</td></tr><tr><td style="border:0px;" align="left"><input type="submit" value="Find Jobs"></tr><tr><td style="border:0px;font-size:10px" align="right"><span id=indeed_at><a href="http://www.indeed.com/?indpubnum=6026606352233534" style="text-decoration:none; color: #FFFFFF">jobs</a><font color="#FFFFFF"> by </font><a href="http://www.indeed.com/?indpubnum=6026606352233534" title="Job Search" style="text-decoration:none; color: #FFFFFF">Indeed</a></span></td></tr></table></form><br><iframe src="http://widgets.myprecisionads.com/mortgage/1000012/9/rates?ratetablelink=http%3A%2F%2Fwww.finweb.com%2Fmortgage%2Fmortgage-rates&mid=epodunk&clienturl=http%3A%2F%2Fwww.epodunk.com%2Fcgi-bin%2FgenInfo.php%3FlocIndex%3D20169" name="widgetContainer" id="widgetContainer" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" width="300" height="250"></iframe><br />
+<div class="BlueBarRight" style="margin-bottom:0;">EPODUNK USER REVIEWS &amp; BLOGS</div>
+<div class="LtBlueBgr">
+<form name="submitTextblog" method="post" action="http://my.epodunk.com/cgi-bin/homeMyeP.php?homeMode=tSub" style="margin:0;padding:0;" onsubmit="return submitToMyeP(this);">
+
+<form name="submitTextblog" method="post" action="http://my.epodunk.com/cgi-bin/homeMyeP.php?homeMode=tSub" style="margin:0;padding:0;" onsubmit="return submitToMyeP(this);">
+<br /><strong><a href="/blogs/blogs.php">Visit the Reader Blog Page</a></strong><BR />
+<strong><a href="http://blog.epodunk.com/">Visit the ePodunk Blog</a></strong><BR />
+<div class=DottedLine style="margin-top:10px;margin-bottom:10px;"></div><strong><a href="http://my.epodunk.com/" style="text-decoration:underline;">Register</a> for My ePodunk to:<BR /><BR /><a href="#" onclick="submitToMyeP(document.submitTextblog); return false;">Tell us the pros & cons of Carthage</a></strong>
+<input type="hidden" name="homeMode" value="tSub" />
+		<input type="hidden" name="tpid" value="uc-blog" />
+		<input type="hidden" name="curID" value="20169" />
+		<input type="hidden" name="destDB" value="us_dbo" />
+		<input type="hidden" id="MRAbbrev"  name="MRAbbrev"  value="MO" />
+		<input type="hidden" name="sourceURL" value="" />
+		<input type="hidden" name="sourceLBL" value="" />
+		<input type="hidden" name="curloc" value="Carthage" />
+	</form>
+<strong><a href="#" onclick="submitToMyeP(document.submitTextblog); return false;">Blog about Carthage</a></strong>
+<input type="hidden" name="homeMode" value="tSub" />
+		<input type="hidden" name="tpid" value="uc-blog" />
+		<input type="hidden" name="curID" value="20169" />
+		<input type="hidden" name="destDB" value="us_dbo" />
+		<input type="hidden" id="MRAbbrev"  name="MRAbbrev"  value="MO" />
+		<input type="hidden" name="sourceURL" value="" />
+		<input type="hidden" name="sourceLBL" value="" />
+		<input type="hidden" name="curloc" value="Carthage" />
+	</form>
+</div>
+<br /><div><!-- PSX Invocation Code -->
+
+<script type="text/javascript"><!--//<![CDATA[
+(function(){
+/*==================================================
+
+/*** EDIT THESE LINES **/
+
+var state_code = "";
+var GA_domain = "ePodunk.com";10/11/2010
+var GA_campaign = "City-County";
+var GA_content = "300x250";
+var width = "296";
+var height = "246";
+var zone_id = "123";
+
+
+/*** STOP EDITING **/
+
+var city_code = "";
+var first_name = "";
+var last_name = "";
+var storm_campaign = "432";
+var tracking_id = "";
+var target = "_top";
+
+
+/* ============================== */
+
+var q = { };if( document.location.toString().indexOf("?") > -1 ) {
+var qs = document.location.toString().split(/\?/)[1];
+var params = qs.split(/&/);for( var i = 0; i < params.length; i++ ) {
+var param = params[i].toString().split(/\=/);q[ unescape(param[0]
+).replace(/\+/g, " ") ] = unescape(param[1]).replace(/\+/g, " ");}
+}var f = function(str) { var val = q[ str.replace(/($(\S+))/,"$2") ];
+return typeof val == "undefined" ? "" : val; };
+
+var iframe_id, iframe_name, iframe_n;var Domain = document.domain.toString().length
+<= 0 ? "localcomputer" : document.domain.toString();var n = new String(Domain.substr(
+0, 8 - zone_id.toString().length) + zone_id.toString()).toLowerCase();iframe_id = 
+iframe_name = iframe_name = n;
+
+var div = document.createElement("DIV");
+var iframe = document.createElement("IFRAME");
+iframe.id = iframe_id;
+iframe.setAttribute ? iframe.setAttribute("name", iframe_name) : iframe.name = iframe_name;
+iframe.style.width = width + "px";
+iframe.style.height = height + "px";
+iframe.setAttribute ? iframe.setAttribute("frameBorder", "no") : iframe.frameBorder = "no";
+iframe.setAttribute ? iframe.setAttribute("frameSpacing", 0) : iframe.frameSpacing = 0;
+iframe.setAttribute ? iframe.setAttribute("scrolling", "no") : iframe.scrolling = "no";
+var params = [
+"zoneid=" + zone_id,
+"target=" + target,
+"city_code=",
+"state_code=" + ((typeof f(state_code) == 'undefined' || f(state_code) == 'undefined') ? '' : escape(f(state_code))),
+"first_name=",
+"last_name=",
+"storm_campaign=" + storm_campaign,
+"tracking_id=",
+"GA_domain=" + escape(GA_domain),
+"GA_campaign=" + escape(GA_campaign),
+"GA_content=" + escape(GA_content),
+"cb=" + Math.floor(Math.random() * 99999999)
+];
+var url = "http://d.genealogyaffiliates.com/afr.php?" + params.join("&");
+iframe.setAttribute ? iframe.setAttribute("src", url) : iframe.src = url;
+div.appendChild( iframe );
+document.write( div.innerHTML );
+
+})();
+//]]>--></script>
+</div><!--                 My ePodunk content should be here --><div class='BlueBarRight'>
+LOCAL GUIDES
+</div>
+<p>More info about Carthage:</p>
+<ul class='gIList'>
+	<li><A href='/cgi-bin/genealogyInfo.php?locIndex=20169'>Ancestry &amp; family history</a></li>
+	<li><A href='/cgi-bin/bizData.php?locIndex=20169'>Business</a></li>
+	<li><A href='/cgi-bin/popInfo.php?locIndex=20169'>Demographics</a></li>
+	<li><A href='/cgi-bin/accessInfo.php?locIndex=20169'>Disability access</a></li>
+	<li><A href='/cgi-bin/healthInfo.php?locIndex=20169'>Health</a></li>
+	<li><A href='/cgi-bin/movInfo.php?locIndex=20169'>Housing</a></li>
+	<li><A href='/cgi-bin/politicalInfo.php?locIndex=20169'>Politics</a></li>
+	<li><A href='/cgi-bin/sportsInfo.php?locIndex=20169'>Sports & rec</a></li>
+</ul>
+
+
+<div class='BlueBarRight'>
+RECORD SEARCHES
+</div>
+<ul class='gIList2'>
+<li><a href='/search/record-search-birth.html'>Birth & death</a></li>
+<li><a href='/search/record-search-census.html'>Census</a></li>
+<li><a href='/search/record-search-court-land.html'>Court & land</a></li>
+<li><a href='/search/record-search-family-local_history.html'>Family history</a></li>
+<li><a href='/search/record-search-immigration.html'>Immigration</a></li>
+<li><a href='/search/record-search-military.html'>Military</a></li>
+<li><a href='/search/record-search-newspapers.html'>Newspapers</a></li>
+<li><a href='/search/record-search-obituaries.html'>Obituaries</a></li>
+<li><a href='/search/people-search.html'>People search</a></li>
+</ul>
+
+
+<div class='BlueBarRight'>
+EPODUNK EXTRAS
+</div>
+<ul class='gIList2'>
+<li><A HREF='/americanisms.html'>Americanisms</a></li>
+<li><A HREF='/ancestry/index.html'>Ancestry maps</a></li>
+<li><A HREF='/slogans/index.html'>Claims to fame</a></li>
+<li><A HREF='/festivals/index.html'>Festivals</a></li>
+<li><A HREF='/imaginary/index.html'>Imaginary places</a></li>
+<li><A HREF='/quotes/index.html'>Literary quotes</a></li>
+<li><A HREF='/routes/erie-canal/index.html'>Multimedia</a></li>
+<li><A HREF='/names/index.html'>Place names</a></li>
+<li><A HREF='/pcpages/index.html'>Post cards</a></li>
+<li><A HREF='/podunk.html'>Podunk</a></li>
+<li><A HREF='/top10/index.html'>Top 10 lists</a></li>
+</ul>
+
+
+
+<div class='BlueBarRight'>
+OTHER EPODUNKS
+</div>
+<ul class='gIList2'>
+<li><A HREF='http://ca.epodunk.com'>ePodunk Canada</a></li>
+<li><A HREF='http://ca.epodunk.com'>ePodunk Ireland</a></li>
+<li><A HREF='http://uk.epodunk.com'>ePodunk UK</a></li>
+</ul>
+
+
+<div class='BlueBarRight'>
+FEEDBACK
+</div>
+
+  
+<p>Send us your <A  href='mailto:info@epodunk.com?Subject=Corrections(Place ID = 20169)'>corrections and additions</A></p>
+
+
+
+
+
+
+<CENTER>
+<BR><BR>
+
+<TABLE cellPadding=2 width="100%" bgColor="#ffffff" cellsapcing="0">
+<TR><TD align=center>
+<a href="http://affiliate.foreclosure.com/scripts/t.php?a_aid=22781" target="_top"><img src="http://pix.epodunk.com/ads/foreclosure234x60ad.gif"></a>
+</TD></TR></TABLE>
+
+
+
+
+
+
+
+
+
+
+
+<div class="DottedLine300"></div>
+<div class="HospitalJobsDiv">
+<script language="javascript" type="text/javascript">
+	function HJOLsubmit(hjolform) {
+		if (hjolform.cboJobTitle.options[hjolform.cboJobTitle.selectedIndex].value.length < 1) {
+			alert('Please select a job type.');
+			hjolform.cboJobTitle.focus();
+			return false;
+		}
+
+		if (hjolform.State.options[hjolform.State.selectedIndex].value.length < 1) {
+			alert('Please select a location.');
+			hjolform.State.focus();
+			return false;
+		}
+
+		window.location = 'http://www.hospitaljobsonline.com/job/' + hjolform.cboJobTitle.options[hjolform.cboJobTitle.selectedIndex].value + '//' + hjolform.State.options[hjolform.State.selectedIndex].value;
+	}
+</script>
+<div id="hjolheader"><h2>Search Health Care Jobs</h2></div>
+<form>
+<fieldset>
+	<label for="cboJobTitle">Job Type</label><br />
+	<select id="cboJobTitle" name="cboJobTitle">
+		<option value="">-- Select --</option>
+		<optgroup label="Administration">
+			<option value="5">Admin. Assistant  Staff</option>
+			<option value="194">Administrator/ Ceo/ Exec.</option>
+			<option value="286">Advertising</option>
+			<option value="280">Architect (hospitals)</option>
+			<option value="150">Business Office Mgmt.</option>
+			<option value="49">Business Office Staff</option>
+			<option value="126">Clerical/ Support Staff</option>
+			<option value="273">Community Relations</option>
+			<option value="140">Development/Fund Raising</option>
+			<option value="16">Finance Admin / Collections</option>
+			<option value="260">Hospital Plan &amp; Development</option>
+			<option value="83">Human Resources/ Employment</option>
+			<option value="144">Legal</option>
+			<option value="230">Other</option>
+			<option value="97">Public Relations</option>
+			<option value="88">Sales/Marketing Services</option>
+		</optgroup>
+		<optgroup label="Allied Health">
+			<option value="281">Audiology</option>
+			<option value="165">Bio Engineer</option>
+			<option value="250">Cancer Services</option>
+			<option value="7">Cardiac Cath Lab(Non RN)</option>
+			<option value="14">Cardiac Service</option>
+			<option value="326">Certified Nurse Midwife</option>
+			<option value="335">Chemist</option>
+			<option value="279">Cyotechnology</option>
+			<option value="93">Dentistry</option>
+			<option value="264">Dietitian Regist. (see Nutritionist)</option>
+			<option value="261">Dosimetrist</option>
+			<option value="227">EKG (Echocardiography)</option>
+			<option value="11">Emergency</option>
+			<option value="225">EMT (Emergency Med Tech)</option>
+			<option value="284">Endrocrinology</option>
+			<option value="135">Exercise Physiologist</option>
+			<option value="86">Health Information Mgmt.</option>
+			<option value="65">Hemodialysis</option>
+			<option value="338">Histotechnologist</option>
+			<option value="223">Home Health Services</option>
+			<option value="2">Hospice (Non RN)</option>
+			<option value="219">Immunology</option>
+			<option value="228">Lab</option>
+			<option value="242">Lab Management</option>
+			<option value="221">Lab Tech</option>
+			<option value="17">Lab Tech, Assist</option>
+			<option value="271">Medical &amp; Patient Interpreter</option>
+			<option value="9">Medical Assistant Staff</option>
+			<option value="153">Medical Coder</option>
+			<option value="96">Medical Engineer /Support</option>
+			<option value="263">Medical Interpreter</option>
+			<option value="120">Medical Records</option>
+			<option value="20">Medical Tech</option>
+			<option value="233">Mental Health/Pschology/Behavorial</option>
+			<option value="215">Music Therapy</option>
+			<option value="295">Nurse Practitioner</option>
+			<option value="291">Nutritionist (see Dietitian)</option>
+			<option value="10">Occupational Therapist</option>
+			<option value="253">Occupational Therapy Assist.</option>
+			<option value="283">Optometry</option>
+			<option value="12">Other Positions</option>
+			<option value="77">Paramedics / Ambulance</option>
+			<option value="22">Pathology</option>
+			<option value="337">Pharmaceutical Clinical Research</option>
+			<option value="336">Pharmaceutical Customer Service</option>
+			<option value="331">Pharmaceutical HR / Recruiter</option>
+			<option value="328">Pharmaceutical Management</option>
+			<option value="330">Pharmaceutical Marketing</option>
+			<option value="332">Pharmaceutical Nurse</option>
+			<option value="333">Pharmaceutical Quality Control</option>
+			<option value="329">Pharmaceutical Research &amp; Dev.</option>
+			<option value="334">Pharmaceutical Sales</option>
+			<option value="98">Pharmacist</option>
+			<option value="243">Pharmacy Management</option>
+			<option value="220">Pharmacy Tech</option>
+			<option value="23">Pharmacy Tech Assist</option>
+			<option value="21">Phlebotomist</option>
+			<option value="104">Physical Therapist, RPT</option>
+			<option value="245">Physical Therapy Management</option>
+			<option value="24">Physical Therapy Tech/Assist.</option>
+			<option value="94">Physician Assistant (PA)</option>
+			<option value="217">Physicist</option>
+			<option value="339">Polysomnography</option>
+			<option value="103">Product Sales</option>
+			<option value="262">Radiation Therapist</option>
+			<option value="95">Radiology</option>
+			<option value="249">Radiology  Management</option>
+			<option value="213">Radiology CT Scan</option>
+			<option value="256">Radiology Dosimetrist</option>
+			<option value="91">Radiology Engineer</option>
+			<option value="218">Radiology Imaging</option>
+			<option value="214">Radiology Mammography</option>
+			<option value="343">Radiology Medical Physicist</option>
+			<option value="216">Radiology MRI</option>
+			<option value="110">Radiology Nuclear Med Tech Cert.</option>
+			<option value="125">Radiology Oncology</option>
+			<option value="211">Radiology Sonographer</option>
+			<option value="25">Radiology Techs, Assist</option>
+			<option value="282">Radiology Therapy</option>
+			<option value="102">Radiology Ultrasound</option>
+			<option value="344">Radiology X-Ray Techs</option>
+			<option value="289">Radiology- Reg. Vascular Tech</option>
+			<option value="210">Recreation Therapist</option>
+			<option value="226">Rehabilitation</option>
+			<option value="224">Research</option>
+			<option value="251">Respiratory Therapy</option>
+			<option value="285">Specialty Fields</option>
+			<option value="235">Speech Therapist</option>
+			<option value="116">Support Staff</option>
+			<option value="248">Surgical Services (Non RN)</option>
+			<option value="212">Surgical Techs</option>
+			<option value="269">Travel Cert.Occup.Ther. Asst.(COTA)</option>
+			<option value="266">Travel Occupational Therapist (OT)</option>
+			<option value="270">Travel P. T.  Assist (PTA)</option>
+			<option value="268">Travel Physical Therapist (PT)</option>
+			<option value="267">Travel Speech Language Path. (SLP)</option>
+		</optgroup>
+		<optgroup label="General">
+			<option value="186">Accounting / Staff</option>
+			<option value="71">Building Services</option>
+			<option value="274">Business Analyst</option>
+			<option value="111">Cardiology Services</option>
+			<option value="119">Chemical Dependency Services</option>
+			<option value="246">Child Care Services</option>
+			<option value="121">Clinic Services</option>
+			<option value="78">College Faculty</option>
+			<option value="244">Communications</option>
+			<option value="106">Community Services</option>
+			<option value="292">Computer System Analyst</option>
+			<option value="147">Computer/ Information Systems</option>
+			<option value="350">Credentialing Coordinator</option>
+			<option value="231">Education/ Training</option>
+			<option value="113">Emergency Services</option>
+			<option value="232">Engineer</option>
+			<option value="188">Environmental</option>
+			<option value="162">Food Services</option>
+			<option value="108">Health Services</option>
+			<option value="84">Healthcare Sales</option>
+			<option value="109">Home Health Services</option>
+			<option value="72">Housekeeping</option>
+			<option value="141">Insurance</option>
+			<option value="277">Laundry Management</option>
+			<option value="100">Long Term/Skilled Nursing Facility</option>
+			<option value="238">Maintenance / Grounds</option>
+			<option value="287">Managed Care</option>
+			<option value="37">Materials Management</option>
+			<option value="123">Medical Office</option>
+			<option value="99">Medical Transcription</option>
+			<option value="254">Other Positions</option>
+			<option value="115">Patient Services</option>
+			<option value="117">Physician Office</option>
+			<option value="166">Plant Manager</option>
+			<option value="122">Rehabilitation Services</option>
+			<option value="118">Research Services</option>
+			<option value="81">Security/ Drivers/ Couriers</option>
+			<option value="92">Social Services</option>
+			<option value="272">Social Worker</option>
+			<option value="222">Support Services</option>
+			<option value="234">Transport/ Messenger/ Escort</option>
+			<option value="288">Underwriting</option>
+			<option value="143">Utilization Review/Quality Assurance</option>
+			<option value="142">Volunteer Services</option>
+			<option value="112">Womens Services</option>
+		</optgroup>
+		<optgroup label="Nurse">
+			<option value="43">Admin. Office Support Staff</option>
+			<option value="34">Admin./ V.Pres. / Directors</option>
+			<option value="300">Allied Health RN</option>
+			<option value="130">Ambulatory Services</option>
+			<option value="205">Audit</option>
+			<option value="131">Camp Nurse</option>
+			<option value="198">Cardiac Rehab</option>
+			<option value="345">Cardiovascular</option>
+			<option value="259">Care Assistant</option>
+			<option value="237">Case/ Care Management</option>
+			<option value="29">Cath Lab ( RN)</option>
+			<option value="204">Chemical Dependency</option>
+			<option value="341">Clinical Nurse Manager</option>
+			<option value="182">Clinical Nurse Specialists(CNS)</option>
+			<option value="107">Clinics</option>
+			<option value="1">CNA / Nurse Assistant</option>
+			<option value="185">Community Health</option>
+			<option value="236">Computer CRA/CRC</option>
+			<option value="133">Critical Care  &amp; ICU /Telemetry</option>
+			<option value="189">Critical Care/ ICU Management</option>
+			<option value="55">CRNA / Nurse Anesthetist</option>
+			<option value="203">Diabetes/ Endocrinology</option>
+			<option value="74">Dialysis(Hemodialysis)</option>
+			<option value="184">Dosimetrist</option>
+			<option value="50">Drs. Office / Clinic Staff</option>
+			<option value="199">Education / Staff Development</option>
+			<option value="114">Emergency</option>
+			<option value="187">Forensic</option>
+			<option value="197">Gastroenterology</option>
+			<option value="200">Genetics</option>
+			<option value="54">Geriatric</option>
+			<option value="195">Hematology</option>
+			<option value="192">HIV/ AIDS</option>
+			<option value="183">Holistic/ Whole Health</option>
+			<option value="257">Home Health Assistants</option>
+			<option value="52">Home Health Care</option>
+			<option value="3">Hospice</option>
+			<option value="90">Infection Control</option>
+			<option value="175">Infectious Diseases</option>
+			<option value="190">Internal Medicine</option>
+			<option value="206">Intervention</option>
+			<option value="247">Labor &amp; Delivery (OB) / Neonatal</option>
+			<option value="193">Legal</option>
+			<option value="4">Long Term Care (Nursing Home)</option>
+			<option value="229">LPN / LVN (Licensed Vocational Nurse)</option>
+			<option value="191">Managed Care</option>
+			<option value="59">Management (Mgr/Coord/ Charge)</option>
+			<option value="63">Maternal Child Health</option>
+			<option value="18">Medical / Physicians Office</option>
+			<option value="56">Medical/Surgical (Med/Surg)</option>
+			<option value="258">Medicine Aides</option>
+			<option value="347">Neonatal ICU (NICU)</option>
+			<option value="207">Neonatal/ New Born</option>
+			<option value="208">Nephrology</option>
+			<option value="209">Neurology</option>
+			<option value="299">Nurse Midwife Certified</option>
+			<option value="58">Nurse Practitioner</option>
+			<option value="15">OB (Obstetrics)</option>
+			<option value="255">Oncology</option>
+			<option value="26">Orthopedics / Neurology</option>
+			<option value="202">Other Positions</option>
+			<option value="239">Pediatric( Maternal Child Health)</option>
+			<option value="28">Phlebotomist</option>
+			<option value="42">Psychology/Mental Health</option>
+			<option value="340">Reconciliation Analyst</option>
+			<option value="51">Rehabilitation</option>
+			<option value="179">Renal Transplant</option>
+			<option value="89">Research</option>
+			<option value="145">Risk Management</option>
+			<option value="19">RN (Staff Nurse)</option>
+			<option value="181">Sales &amp; Marketing</option>
+			<option value="180">School Nurse</option>
+			<option value="53">Specialty Areas</option>
+			<option value="151">Student Nurse</option>
+			<option value="177">Substance Abuse</option>
+			<option value="171">Surgery Central Supply</option>
+			<option value="241">Surgery Management / Admin</option>
+			<option value="13">Surgery Open Heart (cardiovascular)</option>
+			<option value="8">Surgery PACU/ Recovery</option>
+			<option value="196">Surgery RNFA (First Assist.)</option>
+			<option value="240">Surgery/Operating Room Staff</option>
+			<option value="346">Telemetry</option>
+			<option value="30">Transplant</option>
+			<option value="6">Traveling Nurse</option>
+			<option value="47">Utilization Review/ Quality Assurance</option>
+			<option value="290">Vascular</option>
+			<option value="201">Vascular Imaging</option>
+		</optgroup>
+		<optgroup label="Office &amp; Clerical">
+			<option value="124">Administrative</option>
+			<option value="176">Admissions</option>
+			<option value="159">Aide Office Management</option>
+			<option value="128">Allied Health</option>
+			<option value="170">Business Office</option>
+			<option value="252">Cancer Services</option>
+			<option value="127">Data Entry</option>
+			<option value="134">Financial/ Collection</option>
+			<option value="132">Medical</option>
+			<option value="129">Nursing</option>
+			<option value="136">Patient /Customer Service</option>
+			<option value="137">Receptionist</option>
+			<option value="138">Records Processing</option>
+			<option value="139">Secretary</option>
+			<option value="173">Transcription</option>
+		</optgroup>
+		<optgroup label="Physcian">
+			<option value="349">Pediatric Internal Medicine</option>
+			<option value="69">Administration</option>
+			<option value="296">Allergy</option>
+			<option value="178">Anesthesiologist</option>
+			<option value="164">Assistant (PA)</option>
+			<option value="297">Cardio thoracic Surgeon</option>
+			<option value="27">Cardiology</option>
+			<option value="298">Cardiovascular Surgery</option>
+			<option value="301">Correctional</option>
+			<option value="302">Critical Care</option>
+			<option value="303">Cytotech</option>
+			<option value="87">Dentist</option>
+			<option value="41">Dermatology</option>
+			<option value="276">Dermatopathology</option>
+			<option value="342">Education</option>
+			<option value="62">Emergency Medicine</option>
+			<option value="76">Endocrinologist</option>
+			<option value="149">ENT (Ear, Nose, Throat)</option>
+			<option value="31">Family Practice/ General</option>
+			<option value="75">Gastroenterologist</option>
+			<option value="32">Geriatric Medicine</option>
+			<option value="348">Gynecological Oncology</option>
+			<option value="304">Histotech</option>
+			<option value="73">Hospitalist</option>
+			<option value="33">Immunology</option>
+			<option value="35">Internal Medicine</option>
+			<option value="64">LOCUM TENEN POSITIONS</option>
+			<option value="305">Maternal Fetal Medicine</option>
+			<option value="327">Med Peds</option>
+			<option value="293">Medical Director</option>
+			<option value="306">Nephrology</option>
+			<option value="36">Neurology</option>
+			<option value="275">Neurosurgeon</option>
+			<option value="38">Nuclear Medicine</option>
+			<option value="44">Obstetrics/ Gynecology</option>
+			<option value="82">Occupational Medicine</option>
+			<option value="46">Oncology Medicine</option>
+			<option value="80">Ophthalmology</option>
+			<option value="39">Orthopedic</option>
+			<option value="68">Other Positions</option>
+			<option value="146">Otolaryngology</option>
+			<option value="148">Pain Management</option>
+			<option value="40">Pathology</option>
+			<option value="308">Pathology Assistant</option>
+			<option value="66">Pediatric</option>
+			<option value="154">Pediatric Allergy Immunology</option>
+			<option value="155">Pediatric Cardiology</option>
+			<option value="156">Pediatric Critical Care Medicine</option>
+			<option value="158">Pediatric Emergency Medicine</option>
+			<option value="157">Pediatric Endocrinology/Met.</option>
+			<option value="160">Pediatric Gastroenterology</option>
+			<option value="163">Pediatric Hospitalist</option>
+			<option value="161">Pediatric Neonatology</option>
+			<option value="167">Pediatric Nephrology</option>
+			<option value="168">Pediatric Neurology</option>
+			<option value="307">Pediatric Oncology</option>
+			<option value="309">Pediatric Orthopedic Surgery</option>
+			<option value="174">Pediatric Pulmonology</option>
+			<option value="314">Pediatric Radiology</option>
+			<option value="310">Pediatric Surgery</option>
+			<option value="172">Pediatric Urology</option>
+			<option value="152">Perinatology</option>
+			<option value="311">Physical Med &amp; Rehab</option>
+			<option value="67">Plastic Surgery</option>
+			<option value="265">Podiatrist</option>
+			<option value="85">Practices For Sale</option>
+			<option value="45">Psychiatrist</option>
+			<option value="169">Psychiatry Child &amp; Adolescents</option>
+			<option value="312">Psychologist</option>
+			<option value="79">Pulmonary Medicine</option>
+			<option value="316">Radiation Oncology</option>
+			<option value="48">Radiology</option>
+			<option value="313">Radiology- CT &amp; Ultrasound</option>
+			<option value="315">Radiology- Magnetic Res. Imaging</option>
+			<option value="317">Radiology- Neuroradiology</option>
+			<option value="318">Radiology- Nuclear Radiology</option>
+			<option value="319">Radiology- Special Procedures</option>
+			<option value="320">Radiology- Teleradiology</option>
+			<option value="321">Radiology- Vascular &amp; Interventional</option>
+			<option value="105">Research</option>
+			<option value="101">Residency / Fellowships</option>
+			<option value="57">Rheumatology</option>
+			<option value="322">Sports Medicine</option>
+			<option value="60">Surgeon</option>
+			<option value="323">Thoracic Surgery</option>
+			<option value="324">Trauma Surgery</option>
+			<option value="61">Urgent Care</option>
+			<option value="70">Urologist</option>
+			<option value="325">Vascular Surgery</option>
+		</optgroup>
+	</select>
+	<br />
+	<label for="State">Location</label><br />
+	<select id="State" name="State">
+		<option value="">-- Select --</option>
+		<option value="AL">Alabama</option>
+		<option value="AK">Alaska</option>
+		<option value="AB">Alberta</option>
+		<option value="AZ">Arizona</option>
+		<option value="AR">Arkansas</option>
+		<option value="BC">British Columbia</option>
+		<option value="CA">California</option>
+		<option value="CO">Colorado</option>
+		<option value="CT">Connecticut</option>
+		<option value="DE">Delaware</option>
+		<option value="FL">Florida</option>
+		<option value="GA">Georgia</option>
+		<option value="HI">Hawaii</option>
+		<option value="ID">Idaho</option>
+		<option value="IL">Illinois</option>
+		<option value="IN">Indiana</option>
+		<option value="IA">Iowa</option>
+		<option value="KS">Kansas</option>
+		<option value="KY">Kentucky</option>
+		<option value="LA">Louisiana</option>
+		<option value="ME">Maine</option>
+		<option value="MB">Manitoba</option>
+		<option value="MD">Maryland</option>
+		<option value="MA">Massachusetts</option>
+		<option value="MI">Michigan</option>
+		<option value="MN">Minnesota</option>
+		<option value="MS">Mississippi</option>
+		<option value="MO">Missouri</option>
+		<option value="MT">Montana</option>
+		<option value="NE">Nebraska</option>
+		<option value="NV">Nevada</option>
+		<option value="NB">New Brunswick</option>
+		<option value="NH">New Hampshire</option>
+		<option value="NJ">New Jersey</option>
+		<option value="NM">New Mexico</option>
+		<option value="NY">New York</option>
+		<option value="NF">Newfoundland</option>
+		<option value="NC">North Carolina</option>
+		<option value="ND">North Dakota</option>
+		<option value="NS">Nova Scotia</option>
+		<option value="OH">Ohio</option>
+		<option value="OK">Oklahoma</option>
+		<option value="ON">Ontario</option>
+		<option value="OR">Oregon</option>
+		<option value="PA">Pennsylvania</option>
+		<option value="PE">Prince Edward Island</option>
+		<option value="QC">Quebec</option>
+		<option value="RI">Rhode Island</option>
+		<option value="SK">Saskatchewan</option>
+		<option value="SC">South Carolina</option>
+		<option value="SD">South Dakota</option>
+		<option value="TN">Tennessee</option>
+		<option value="TX">Texas</option>
+		<option value="UT">Utah</option>
+		<option value="VT">Vermont</option>
+		<option value="VA">Virginia</option>
+		<option value="WA">Washington</option>
+		<option value="DC">Washington DC</option>
+		<option value="WV">West Virginia</option>
+		<option value="WI">Wisconsin</option>
+		<option value="WY">Wyoming</option>
+		<option value="YK">Yukon Territories</option>
+	</select>
+	<br />
+	<input id="btnSubmit" type="button" value="Submit" onClick="HJOLsubmit(this.form)" />
+</fieldset>
+<div id="hjolfooter">powered by HospitalJobsOnline.com</div>
+</form>
+</div><div class="BlueBarRight">News about Carthage</div>
+<script language="javascript" type="text/javascript" src="/Common/rss.js"></script>
+<div id="rss_rssNews">
+<script language="javascript" type="text/javascript"><!--
+document.write('<div class="progress">&nbsp;</div>');
+--></script>
+<div></div>
+</div>
+<script language="javascript" type="text/javascript">
+registerOnLoadData(loadRSSFeed,'20169,rssNews,5,rss_rssNews');
+window.onload=Body_onLoad;
+</script>
+<div id="collegeSearchFormContainer">
+	<div class="BlueBarRight">College Search</div>
+	<div style="text-align:left;">
+		<p>Search Associate's degrees, Bachelor's degrees, Master's degrees, Certificate programs, Diploma programs, and many others.</p>
+		<p id='collegefill1'>Enter your ZIP or Postal code to find schools near you. Your dream major may be just around the corner!<br><br></p>
+		<p id='collegefill2' style='display:none'>Already have something in mind? Enter all or part of its name and click Search!<br><br></p>
+		<p id='collegefill3' style='display:none'>Busy? Hundreds of career-enhancing programs are now available from home!  Just choose a subject and click Search!</p>
+	</div>
+</div>
+
+<div>
+<script type="text/javascript"><!--
+ch_client = "epodunk";
+ch_type = "mpu";
+ch_width = 300;
+ch_height = 250;
+ch_color_title = "003399";
+ch_non_contextual = 4;
+ch_vertical ="premium";
+ch_target = "_blank";
+ch_sid = "epodunk 300x250 Premium";
+ch_noborders = 1;
+var sections = document.title.split("-");
+var sectionLOC = sections[0];
+var sectionKEY = sections[1];
+var cityLOC = sectionLOC.split(",");
+var keyword = sectionKEY.split(",");
+var ch_queries = new Array(keyword[0], keyword[1], keyword[2], keyword[3] );
+
+var ch_selected=Math.floor((Math.random()*ch_queries.length));
+if ( ch_selected < ch_queries.length ) { ch_query = cityLOC[0] + cityLOC[1] + ch_queries[ch_selected]; }
+//--></script>
+<script src="http://scripts.chitika.net/eminimalls/amm.js"
+type="text/javascript">
+</script>
+</div>
+
+<br />
+<div>
+</div>
+
+  
+<!-- end of right column is here -->
+</div>
+
+
+
+<div id='Footer'>
+<div id='BottomBar'>
+      <A href='/profiles/index.html' >CITIES</A> |
+      <A href='/search/counties.html' >COUNTIES</A> |
+      <A href='/search/airports.html' >AIRPORTS</A> |
+      <A href='/search/cemeteries.html' >CEMETERIES</A> |
+      <A href='/colleges/index.html' >COLLEGES</A> |
+      <A href='/search/libraries.html' >LIBRARIES</A> |
+      <A href='/museums/index.html' >MUSEUMS</A> |
+      <A href='/search/newspapers.html' >NEWSPAPERS</A>
+</div><!-- Standard ePodunk Footer -->
+<div align='center' class='SmTxt'>
+        <A HREF='/about.html'>About us</a> |
+        <A HREF='/help.html'>Help</a> |
+        <A HREF='/sources.html'>Sources</a> |
+        <A HREF='/contact.html'>Contact</a> | <A HREF="http://www.internetbrands.com/ib/privacy/enthusiasts?site=www.epodunk.com" rel="nofollow" target="_blank">Privacy</a> | 
+	<a href="http://www.internetbrands.com/privacy/cookie-policy.html">Cookie Policy</a> | 
+	<A HREF="http://www.internetbrands.com/ib/terms/enthusiasts?site=www.epodunk.com" rel="nofollow" target="_blank">Terms of Use</a> | 
+        <A HREF='https://adwords.google.com/select/OnsiteSignupLandingPage?client=ca-pub-9213784066552927&referringUrl=www.epodunk.com' target='_blank'>Advertise</a> |
+        <A HREF='http://blog.epodunk.com/'>Blog</a>  |
+        <A HREF='http://ca.epodunk.com/'>Canada</a>  |
+        <A HREF='http://ei.epodunk.com/'>Ireland</a>  |
+        <A HREF='http://uk.epodunk.com/'>UK</a>
+</div>
+
+<P></P>
+<div align='center' class='DottedLine' style='width:835px;'></div>
+
+<div align='center' id='footText'>
+      <P class='SmTxt'>Powered by ePodunk (tm)
+        Copyright &copy; 2007 ePodunk Inc. All rights reserved.
+      </P>
+      <P class='SmTxt'>ePodunk is not affiliated with any entity represented in its databases.
+        ePodunk also provides links to Web sites presented by government agencies, newspapers,
+        ski areas, inns and other enterprises.
+        The company is not affiliated with these sites, nor is it responsible for their content.
+        Post cards are vintage images from the early 1900s. They are not intended to depict current views. ePodunk does not sell electronic or paper copies of post cards appearing on this site, nor does it keep high-resolution copies of these images.
+      </P>
+</div>
+
+</div>
+
+<script src='http://www.google-analytics.com/urchin.js'
+type='text/javascript'>
+</script>
+<script type='text/javascript'>
+_uacct='UA-31823-1';
+urchinTracker();
+</script>
+    <!-- Cookie Policy script-->
+<script type="text/javascript" src="//eucookie.internetbrands.com/eucookie/scripts/v1.0.0/eucookie.min.js"></script>
+<script type="text/javascript">
+(function(){
+ if(typeof IbEuCookie != 'undefined'){
+  //default parameters
+  IbEuCookie.handleIbCookieNotice();
+ }
+})();
+</script>
+<!-- End Cookie Policy script--></div>
+
+</div><!-- start ibpxl -->
+<script type="text/javascript"> pxlSiteFile = "epodunk.com.js"; pxlScriptStart = '%3Cscr' + 'ipt type="text/javascript"'; pxlScriptEnd = '%3C/scr' + 'ipt%3E'; if (location.protocol.indexOf("https") == -1) { document.write(unescape(pxlScriptStart + ' src="http://pxl.ibpxl.com/'+pxlSiteFile+'"%3E'+pxlScriptEnd)); } else { document.write(unescape(pxlScriptStart + ' src="https://pxlssl.ibpxl.com/'+pxlSiteFile+'"%3E'+pxlScriptEnd)); } </script>
+<!-- end ibpxl -->
+
+</body>
+</html>
