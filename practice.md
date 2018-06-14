@@ -10,3 +10,7 @@ Here's some ~~strikedthrough text for ya~~
 Java | Swift
 ---- | -----
 This | self
+
+1. List item #1
+2. List item #2
+3. List item #3
