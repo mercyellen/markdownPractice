@@ -31,7 +31,7 @@ This | self
 System.out.println("Hello World");
 ```
 
-![Hometown](carthage.jpg)
+![Hometown](carthageMO.jpg)
 
 ![Vacation I'm not going on](https://media.coindesk.com/uploads/2017/11/aruba-caribbean--e1511749619496.jpg)
 
