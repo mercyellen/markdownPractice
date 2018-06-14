@@ -7,4 +7,4 @@ Practicing with markdown
 
 ---
 
-**So let's try this whole italicizing thing
+* *So let's try this whole italicizing thing
