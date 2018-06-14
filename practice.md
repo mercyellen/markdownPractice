@@ -33,4 +33,4 @@ This | self
 System.out.println("Hello World");
 ```
 
-![Hometown](files/carthage.jpg)
+![Hometown](/files/carthage.jpg)
